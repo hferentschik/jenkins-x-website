@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Overview on Jenkins X</title>
-    <link>https://jenkins-x.io/apps/</link>
+    <link>https://hferentschik.github.io/jenkins-x-website/apps/</link>
     <description>Recent content in Overview on Jenkins X</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jenkins-x.io/apps/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hferentschik.github.io/jenkins-x-website/apps/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

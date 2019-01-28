@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Developing on Jenkins X</title>
-    <link>https://jenkins-x.io/developing/</link>
+    <link>https://hferentschik.github.io/jenkins-x-website/developing/</link>
     <description>Recent content in Developing on Jenkins X</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jenkins-x.io/developing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hferentschik.github.io/jenkins-x-website/developing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Create Spring Boot</title>
-      <link>https://jenkins-x.io/developing/create-spring/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/developing/create-spring/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/developing/create-spring/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/developing/create-spring/</guid>
       <description>If you are developing Java microservices then you may well be using the popular Spring Boot.
 You can create new Spring Boot applications using the Spring Boot Initializr and then import them into Jenkins X via the jx import command.
 However another alternative is to use the jx create spring command which provides a fast automated path.
@@ -25,19 +25,19 @@ There is a demo of using the command: jx create spring or you can try it out you
     
     <item>
       <title>Build Status</title>
-      <link>https://jenkins-x.io/developing/build-status/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/developing/build-status/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/developing/build-status/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/developing/build-status/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Create Quickstart</title>
-      <link>https://jenkins-x.io/developing/create-quickstart/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/developing/create-quickstart/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/developing/create-quickstart/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/developing/create-quickstart/</guid>
       <description>Quickstarts are pre-made applications you can start a project from, instead of starting from scratch.
 You can create new applications from our list of curated Quickstart applications via the jx create quickstart command.
 $ jx create quickstart You are then prompted for a list of quickstarts to choose from.
@@ -47,10 +47,10 @@ $ jx create quickstart -l go Or use a text filter to filter on the project names
     
     <item>
       <title>Create Camel</title>
-      <link>https://jenkins-x.io/developing/create-camel/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/developing/create-camel/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/developing/create-camel/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/developing/create-camel/</guid>
       <description>If you want to create a new Spring Boot based microservice using Apache Camel you can use the jx create camel command.
 $ jx create camel You are then prompted for the project name.
 If you want you can specify this on the command line:
@@ -59,10 +59,10 @@ $ jx create camel -a myapp What happens when you create a camel microservice Onc
     
     <item>
       <title>Browsing</title>
-      <link>https://jenkins-x.io/developing/browsing/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/developing/browsing/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/developing/browsing/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/developing/browsing/</guid>
       <description>If you have used kubernetes before you&amp;rsquo;re probably used the kubectl command line to view kubernetes resources:
 kubectl get pods The Jenkins X command line tool, jx, has a similar look and feel to kubectl and lets you get the status of all the Jenkins X resources.
 View Jenkins Console If you are familiar with the Jenkins console then you can use jx console:
@@ -71,10 +71,10 @@ jx console to open it in a browser.</description>
     
     <item>
       <title>Import</title>
-      <link>https://jenkins-x.io/developing/import/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/developing/import/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/developing/import/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/developing/import/</guid>
       <description>If you already have some source code you wish to import into Jenkins X then you can use the jx import command. e.g.
 $ cd my-cool-app $ jx import Import will perform the following actions (prompting you along the way):
  add your source code into a git repository if it isn&amp;rsquo;t already create a remote git repository on a git service, such as GitHub push your code to the remote git service add any required files to your project if they do not exist:  Dockerfile to build your application as a docker image Jenkinsfile to implement the CI / CD pipeline helm chart to run your application inside Kubernetes  register a webhook on the remote git repository to your teams Jenkins add the git repository to your teams Jenkins trigger the first pipeline  Avoiding docker + helm If you are importing a repository that does not create a docker image you can use the --no-draft command line argument which will not use Draft to default the Dockerfile and helm chart.</description>
@@ -82,10 +82,10 @@ $ cd my-cool-app $ jx import Import will perform the following actions (promptin
     
     <item>
       <title>Kubernetes Context</title>
-      <link>https://jenkins-x.io/developing/kube-context/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/developing/kube-context/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/developing/kube-context/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/developing/kube-context/</guid>
       <description>The kubernetes CLI tool kubectl keeps track of the kubernetes cluster and namespace you are using via a local file ~/.kube/config (or a file at $KUBECONFIG).
 If you want to change the namespace using the kubectl command line you can use:
 kubectl config set-context`kubectl config current-context` --namespace=foo However jx provides lots of helper commands for changing clusters, namespaces or environments:
@@ -95,10 +95,10 @@ jx environment You will be presented with a list of the environments for the cur
     
     <item>
       <title>Promote</title>
-      <link>https://jenkins-x.io/developing/promote/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/developing/promote/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/developing/promote/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/developing/promote/</guid>
       <description>The CD Pipelines of Jenkins X automate the promotion of version changes through each Environment which is configured with a promotion strategy property of Auto. By default the Staging environment uses automatic promotion and the Production environment uses Manual promotion.
 To manually Promote a version of your application to an environment use the jx promote command.
 jx promote --app myapp --version 1.2.3 --env production The command waits for the promotion to complete, logging details of its progress.</description>
@@ -106,10 +106,10 @@ jx promote --app myapp --version 1.2.3 --env production The command waits for th
     
     <item>
       <title>Preview Environments</title>
-      <link>https://jenkins-x.io/developing/preview/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/developing/preview/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/developing/preview/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/developing/preview/</guid>
       <description>We highly recommend the use of Preview Environments to get early feedback on changes to applications before the changes are merged into master.
 Typically the creation of preview environments is automated inside the Pipelines created by Jenkins X.
 However you can manually create a Preview Environment using jx via the jx preview command.
@@ -118,10 +118,10 @@ jx preview What happens when a Preview environment is created  a new Environment
     
     <item>
       <title>IDE</title>
-      <link>https://jenkins-x.io/developing/ide/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/developing/ide/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/developing/ide/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/developing/ide/</guid>
       <description>As developers we often spend lots of time in our IDE of choice working on code. Jenkins X is all about helping developers deliver business value faster through software; so we want to make Jenkins X super easy to work with from inside your IDE.
 So we have IDE plugins for working with Jenkins X
 VS Code VS Code is a popular open source IDE from Microsoft.
@@ -130,10 +130,10 @@ We&amp;rsquo;ve created the vscode-jx-tools extension for VS Code.</description>
     
     <item>
       <title>Issues</title>
-      <link>https://jenkins-x.io/developing/issues/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/developing/issues/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/developing/issues/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/developing/issues/</guid>
       <description>Jenkins X defaults to using the issue tracker in your git provider for creating and browsing issues.
 e.g. if you are inside the source code of a github project then you can type jx create issue:
 jx create issue -t &amp;quot;lets make things more awesome&amp;quot;  And a new issue will be created on github.
@@ -143,10 +143,10 @@ jx get issues  Using a different issue tracker If you wish to use, say, JIRA on 
     
     <item>
       <title>Git Servers</title>
-      <link>https://jenkins-x.io/developing/git/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/developing/git/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/developing/git/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/developing/git/</guid>
       <description>Jenkins X defaults to using GitHub, the free public git hosting solution for open source projects.
 However when working in the enterprise you may wish to use different git servers.
 You can list the git servers configured via jx get git:
@@ -156,10 +156,10 @@ If you wish to use a different git provider for your environments then when you 
     
     <item>
       <title>Security Features</title>
-      <link>https://jenkins-x.io/developing/security-features/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/developing/security-features/</link>
       <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/developing/security-features/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/developing/security-features/</guid>
       <description>Jenkins X has a few useful addons that can aid with ensuring the ongoing security of your deployed applications. There are static and container security, as well as dynamic security addons available.
 Static security The Anchore Engine is used to provide image security, by examining contents of containers either in pull request/review state, or on running containers.
 This was introduced in this blog post
@@ -168,10 +168,10 @@ To enable this run the following command and let it prepare the services:</descr
     
     <item>
       <title>Dev Pods</title>
-      <link>https://jenkins-x.io/developing/devpods/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/developing/devpods/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/developing/devpods/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/developing/devpods/</guid>
       <description>The initial focus of Jenkins X is around automating and improving CI/CD for kubernetes. The use of Preview Environments really helps to validate and approve Pull Requests before they get merged to master; but how do you try things out before you are ready submit a Pull Request?
 Jenkins X has a concept of Dev Pods which are pods for developers to use as a terminal/shell which are based on the exact same operating system, docker containers and tools installed as the pod templates used in the Jenkins X CI/CD pipelines.</description>
     </item>

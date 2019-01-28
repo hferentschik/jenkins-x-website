@@ -3,2521 +3,2521 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jenkins-x.io/sponsors/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/sponsors/</loc>
     <lastmod>2019-01-21T12:52:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/apps/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/apps/</loc>
     <lastmod>2019-01-24T08:55:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/about/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/about/</loc>
     <lastmod>2019-01-21T12:52:11+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/about/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/about/"
+                href="https://hferentschik.github.io/jenkins-x-website/about/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/architecture/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/architecture/</loc>
     <lastmod>2018-04-11T18:19:38+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/architecture/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/architecture/"
+                href="https://hferentschik.github.io/jenkins-x-website/architecture/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/contribute/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/contribute/</loc>
     <lastmod>2019-01-21T12:52:11+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/contribute/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/contribute/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/contribute/"
+                href="https://hferentschik.github.io/jenkins-x-website/contribute/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/demos/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/demos/</loc>
     <lastmod>2018-05-15T08:10:56+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/demos/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/demos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/demos/"
+                href="https://hferentschik.github.io/jenkins-x-website/demos/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/developing/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/developing/</loc>
     <lastmod>2018-03-13T16:10:01+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/architecture/diagram/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/architecture/diagram/</loc>
     <lastmod>2018-09-11T16:21:23+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/faq/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/faq/</loc>
     <lastmod>2018-07-11T09:50:17+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/faq/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/faq/"
+                href="https://hferentschik.github.io/jenkins-x-website/faq/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/getting-started/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/getting-started/</loc>
     <lastmod>2018-10-19T12:17:22+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/getting-started/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/getting-started/"
+                href="https://hferentschik.github.io/jenkins-x-website/getting-started/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/documentation/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/documentation/</loc>
     <lastmod>2018-05-21T11:07:56-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/documentation/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/documentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/documentation/"
+                href="https://hferentschik.github.io/jenkins-x-website/documentation/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/faq/faq/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/faq/faq/</loc>
     <lastmod>2018-07-24T07:30:51+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/faq/faq/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/faq/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/faq/faq/"
+                href="https://hferentschik.github.io/jenkins-x-website/faq/faq/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/faq/setup/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/faq/setup/</loc>
     <lastmod>2019-01-18T16:02:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/faq/setup/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/faq/setup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/faq/setup/"
+                href="https://hferentschik.github.io/jenkins-x-website/faq/setup/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/faq/issues/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/faq/issues/</loc>
     <lastmod>2019-01-21T18:20:22+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/faq/issues/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/faq/issues/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/faq/issues/"
+                href="https://hferentschik.github.io/jenkins-x-website/faq/issues/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/security/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/security/</loc>
     <lastmod>2019-01-15T10:47:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/getting-started/tutorials/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/getting-started/tutorials/</loc>
     <lastmod>2018-10-19T12:17:22+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/articles/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/articles/</loc>
     <lastmod>2019-01-21T16:51:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/talks/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/talks/</loc>
     <lastmod>2019-01-22T18:00:22+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/about/features/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/about/features/</loc>
     <lastmod>2019-01-21T12:52:11+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/about/features/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/about/features/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/about/features/"
+                href="https://hferentschik.github.io/jenkins-x-website/about/features/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/community/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/community/</loc>
     <lastmod>2019-01-10T08:00:59-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/community/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/community/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/community/"
+                href="https://hferentschik.github.io/jenkins-x-website/community/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/about/accelerate/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/about/accelerate/</loc>
     <lastmod>2018-08-04T22:22:21+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/about/accelerate/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/about/accelerate/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/about/accelerate/"
+                href="https://hferentschik.github.io/jenkins-x-website/about/accelerate/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/faq/technology/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/faq/technology/</loc>
     <lastmod>2018-07-24T07:30:51+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/faq/technology/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/faq/technology/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/faq/technology/"
+                href="https://hferentschik.github.io/jenkins-x-website/faq/technology/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/contribute/development/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/contribute/development/</loc>
     <lastmod>2019-01-19T14:01:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/contribute/development/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/contribute/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/contribute/development/"
+                href="https://hferentschik.github.io/jenkins-x-website/contribute/development/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/getting-started/install/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/getting-started/install/</loc>
     <lastmod>2018-09-20T11:53:06-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/getting-started/install/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/install/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/getting-started/install/"
+                href="https://hferentschik.github.io/jenkins-x-website/getting-started/install/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/faq/develop/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/faq/develop/</loc>
     <lastmod>2019-01-04T07:56:44+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/faq/develop/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/faq/develop/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/faq/develop/"
+                href="https://hferentschik.github.io/jenkins-x-website/faq/develop/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/about/concepts/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/about/concepts/</loc>
     <lastmod>2018-09-11T16:21:23+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/about/concepts/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/about/concepts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/about/concepts/"
+                href="https://hferentschik.github.io/jenkins-x-website/about/concepts/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/demos/create_cluster/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/demos/create_cluster/</loc>
     <lastmod>2018-03-13T16:17:07+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/demos/create_cluster/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/demos/create_cluster/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/demos/create_cluster/"
+                href="https://hferentschik.github.io/jenkins-x-website/demos/create_cluster/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/demos/create_cluster_gke/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/demos/create_cluster_gke/</loc>
     <lastmod>2018-03-13T16:10:01+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/demos/create_cluster_gke/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/demos/create_cluster_gke/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/demos/create_cluster_gke/"
+                href="https://hferentschik.github.io/jenkins-x-website/demos/create_cluster_gke/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/demos/create_spring/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/demos/create_spring/</loc>
     <lastmod>2018-03-13T16:20:12+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/demos/create_spring/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/demos/create_spring/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/demos/create_spring/"
+                href="https://hferentschik.github.io/jenkins-x-website/demos/create_spring/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/contribute/documentation/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/contribute/documentation/</loc>
     <lastmod>2018-05-07T17:12:38+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/contribute/documentation/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/contribute/documentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/contribute/documentation/"
+                href="https://hferentschik.github.io/jenkins-x-website/contribute/documentation/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/contribute/roadmap/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/contribute/roadmap/</loc>
     <lastmod>2019-01-22T22:19:12+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/contribute/roadmap/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/contribute/roadmap/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/contribute/roadmap/"
+                href="https://hferentschik.github.io/jenkins-x-website/contribute/roadmap/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/getting-started/create-cluster/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/getting-started/create-cluster/</loc>
     <lastmod>2019-01-09T16:45:41-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/getting-started/create-cluster/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/create-cluster/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/getting-started/create-cluster/"
+                href="https://hferentschik.github.io/jenkins-x-website/getting-started/create-cluster/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/contribute/triage/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/contribute/triage/</loc>
     <lastmod>2018-12-18T16:28:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/getting-started/install-on-cluster/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/getting-started/install-on-cluster/</loc>
     <lastmod>2019-01-08T14:18:47-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/getting-started/install-on-cluster/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/install-on-cluster/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/getting-started/install-on-cluster/"
+                href="https://hferentschik.github.io/jenkins-x-website/getting-started/install-on-cluster/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/demos/image-security/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/demos/image-security/</loc>
     <lastmod>2018-05-15T08:04:27+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/getting-started/install-on-cluster-what-happens/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/getting-started/install-on-cluster-what-happens/</loc>
     <lastmod>2019-01-09T16:49:44-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/getting-started/install-on-cluster-what-happens/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/install-on-cluster-what-happens/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/getting-started/install-on-cluster-what-happens/"
+                href="https://hferentschik.github.io/jenkins-x-website/getting-started/install-on-cluster-what-happens/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/about/decisions/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/about/decisions/</loc>
     <lastmod>2019-01-21T12:52:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/demos/kubecon-2018/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/demos/kubecon-2018/</loc>
     <lastmod>2018-05-15T08:04:27+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/architecture/components/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/architecture/components/</loc>
     <lastmod>2019-01-18T14:52:14+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/architecture/components/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/components/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/architecture/components/"
+                href="https://hferentschik.github.io/jenkins-x-website/architecture/components/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/developing/create-spring/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/developing/create-spring/</loc>
     <lastmod>2018-04-16T14:59:28+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/create-spring/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/create-spring/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/create-spring/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/create-spring/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/demos/devoxx-uk-2018/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/demos/devoxx-uk-2018/</loc>
     <lastmod>2018-05-25T11:54:07+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/architecture/source/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/architecture/source/</loc>
     <lastmod>2019-01-24T09:00:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/developing/build-status/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/developing/build-status/</loc>
     <lastmod>2018-07-09T23:46:47+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/developing/create-quickstart/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/developing/create-quickstart/</loc>
     <lastmod>2019-01-09T16:45:41-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/create-quickstart/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/create-quickstart/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/create-quickstart/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/create-quickstart/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/developing/create-camel/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/developing/create-camel/</loc>
     <lastmod>2018-06-13T10:40:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/developing/browsing/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/developing/browsing/</loc>
     <lastmod>2018-12-10T14:21:11-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/browsing/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/browsing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/browsing/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/browsing/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/architecture/custom-resources/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/architecture/custom-resources/</loc>
     <lastmod>2019-01-09T16:45:41-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/architecture/custom-resources/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/custom-resources/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/architecture/custom-resources/"
+                href="https://hferentschik.github.io/jenkins-x-website/architecture/custom-resources/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/developing/import/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/developing/import/</loc>
     <lastmod>2018-07-21T14:23:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/import/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/import/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/import/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/import/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/getting-started/next/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/getting-started/next/</loc>
     <lastmod>2018-05-15T08:10:56+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/getting-started/next/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/next/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/getting-started/next/"
+                href="https://hferentschik.github.io/jenkins-x-website/getting-started/next/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/about/license/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/about/license/</loc>
     <lastmod>2018-07-02T21:39:57+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/about/license/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/about/license/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/about/license/"
+                href="https://hferentschik.github.io/jenkins-x-website/about/license/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/developing/kube-context/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/developing/kube-context/</loc>
     <lastmod>2018-11-15T11:19:20-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/kube-context/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/kube-context/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/kube-context/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/kube-context/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/architecture/build-packs/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/architecture/build-packs/</loc>
     <lastmod>2019-01-04T18:03:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/architecture/build-packs/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/build-packs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/architecture/build-packs/"
+                href="https://hferentschik.github.io/jenkins-x-website/architecture/build-packs/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/getting-started/config/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/getting-started/config/</loc>
     <lastmod>2019-01-22T12:54:42+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/getting-started/config/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/config/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/getting-started/config/"
+                href="https://hferentschik.github.io/jenkins-x-website/getting-started/config/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/architecture/prow/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/architecture/prow/</loc>
     <lastmod>2019-01-09T16:45:41-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/architecture/cloud-native-jenkins/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/architecture/cloud-native-jenkins/</loc>
     <lastmod>2019-01-08T17:42:29+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/architecture/pod-templates/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/architecture/pod-templates/</loc>
     <lastmod>2019-01-18T14:52:14+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/architecture/pod-templates/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/pod-templates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/architecture/pod-templates/"
+                href="https://hferentschik.github.io/jenkins-x-website/architecture/pod-templates/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/architecture/storage/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/architecture/storage/</loc>
     <lastmod>2019-01-18T17:08:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/getting-started/create-custom-builder/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/getting-started/create-custom-builder/</loc>
     <lastmod>2019-01-15T14:08:12-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/getting-started/create-custom-builder/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/create-custom-builder/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/getting-started/create-custom-builder/"
+                href="https://hferentschik.github.io/jenkins-x-website/getting-started/create-custom-builder/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/architecture/docker-registry/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/architecture/docker-registry/</loc>
     <lastmod>2018-09-11T05:01:06+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/architecture/docker-registry/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/docker-registry/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/architecture/docker-registry/"
+                href="https://hferentschik.github.io/jenkins-x-website/architecture/docker-registry/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/developing/promote/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/developing/promote/</loc>
     <lastmod>2019-01-24T13:54:49+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/promote/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/promote/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/promote/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/promote/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/architecture/helm3/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/architecture/helm3/</loc>
     <lastmod>2018-11-06T15:44:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/developing/preview/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/developing/preview/</loc>
     <lastmod>2019-01-13T10:42:42+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/preview/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/preview/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/preview/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/preview/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/architecture/rbac/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/architecture/rbac/</loc>
     <lastmod>2018-11-06T15:44:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/about/status/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/about/status/</loc>
     <lastmod>2019-01-14T09:59:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/developing/ide/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/developing/ide/</loc>
     <lastmod>2018-05-21T17:10:43+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/ide/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/ide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/ide/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/ide/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/developing/issues/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/developing/issues/</loc>
     <lastmod>2018-03-28T17:25:57+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/issues/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/issues/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/issues/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/issues/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/developing/git/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/developing/git/</loc>
     <lastmod>2019-01-16T13:36:28-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/git/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/git/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/git/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/git/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/developing/security-features/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/developing/security-features/</loc>
     <lastmod>2018-07-20T14:36:26+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/developing/devpods/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/developing/devpods/</loc>
     <lastmod>2018-12-21T18:06:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_add/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_add/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_add_app/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_add_app/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_cloudbees/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_cloudbees/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_cloudbees_pipeline/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_cloudbees_pipeline/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_completion/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_completion/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_compliance/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_compliance/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_compliance_delete/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_compliance_delete/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_compliance_logs/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_compliance_logs/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_compliance_results/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_compliance_results/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_compliance_run/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_compliance_run/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_compliance_status/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_compliance_status/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_console/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_console/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_context/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_context/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_controller/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_controller/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_controller_backup/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_controller_backup/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_controller_build/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_controller_build/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_controller_buildnumbers/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_controller_buildnumbers/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_controller_commitstatus/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_controller_commitstatus/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_controller_role/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_controller_role/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_controller_team/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_controller_team/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_controller_workflow/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_controller_workflow/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_addon/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_addon/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_addon_ambassador/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_addon_ambassador/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_addon_anchore/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_addon_anchore/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_addon_cloudbees/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_addon_cloudbees/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_addon_gitea/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_addon_gitea/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_addon_istio/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_addon_istio/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_addon_knative-build/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_addon_knative-build/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_addon_kubeless/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_addon_kubeless/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_addon_owasp-zap/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_addon_owasp-zap/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_addon_pipeline-events/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_addon_pipeline-events/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_addon_prometheus/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_addon_prometheus/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_addon_prow/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_addon_prow/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_addon_sso/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_addon_sso/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_addon_vault-operator/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_addon_vault-operator/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_archetype/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_archetype/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_branchpattern/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_branchpattern/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_camel/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_camel/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_chat/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_chat/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_chat_server/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_chat_server/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_chat_token/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_chat_token/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_cluster/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_cluster/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_cluster_aks/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_cluster_aks/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_cluster_aws/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_cluster_aws/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_cluster_eks/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_cluster_eks/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_cluster_gke/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_cluster_gke/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_cluster_gke_terraform/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_cluster_gke_terraform/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_cluster_iks/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_cluster_iks/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_cluster_minikube/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_cluster_minikube/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_cluster_minishift/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_cluster_minishift/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_cluster_oke/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_cluster_oke/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_codeship/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_codeship/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_devpod/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_devpod/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_docker/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_docker/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_docs/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_docs/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_environment/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_environment/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_etc-hosts/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_etc-hosts/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_git/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_git/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_git_server/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_git_server/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_git_token/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_git_token/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_git_user/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_git_user/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_gke-service-account/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_gke-service-account/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_issue/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_issue/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_jenkins/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_jenkins/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_jenkins_token/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_jenkins_token/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_jhipster/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_jhipster/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_lile/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_lile/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_micro/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_micro/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_post/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_post/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_project/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_project/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_pullrequest/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_pullrequest/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_quickstart/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_quickstart/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_quickstartlocation/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_quickstartlocation/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_spring/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_spring/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_team/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_team/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_terraform/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_terraform/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_token/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_token/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_token_addon/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_token_addon/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_tracker/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_tracker/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_tracker_server/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_tracker_server/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_tracker_token/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_tracker_token/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_user/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_user/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_vault/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_vault/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_addon/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_addon/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_addon_cloudbees/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_addon_cloudbees/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_addon_gitea/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_addon_gitea/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_addon_knative-build/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_addon_knative-build/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_addon_sso/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_addon_sso/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_application/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_application/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_aws/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_aws/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_branch/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_branch/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_chat/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_chat/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_chat_server/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_chat_server/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_chat_token/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_chat_token/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_contexts/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_contexts/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_devpod/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_devpod/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_eks/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_eks/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_environment/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_environment/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_extension/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_extension/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_git/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_git/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_git_server/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_git_server/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_git_token/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_git_token/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_jenkins/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_jenkins/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_jenkins_user/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_jenkins_user/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_namespace/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_namespace/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_post/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_post/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_preview/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_preview/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_quickstartlocation/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_quickstartlocation/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_repo/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_repo/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_team/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_team/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_token/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_token/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_token_addon/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_token_addon/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_tracker/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_tracker/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_tracker_server/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_tracker_server/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_tracker_token/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_tracker_token/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_user/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_user/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_vault/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_vault/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_diagnose/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_diagnose/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_docs/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_docs/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_edit/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_edit/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_edit_addon/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_edit_addon/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_edit_branchpattern/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_edit_branchpattern/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_edit_buildpack/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_edit_buildpack/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_edit_config/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_edit_config/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_edit_dockerregistryorg/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_edit_dockerregistryorg/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_edit_envorganisation/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_edit_envorganisation/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_edit_environment/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_edit_environment/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_edit_extensionsrepository/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_edit_extensionsrepository/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_edit_gitprivate/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_edit_gitprivate/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_edit_gitserver/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_edit_gitserver/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_edit_helmbin/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_edit_helmbin/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_edit_organisation/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_edit_organisation/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_edit_pipelineusername/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_edit_pipelineusername/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_edit_storage/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_edit_storage/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_edit_userroles/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_edit_userroles/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_environment/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_environment/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_gc/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_gc/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_gc_activities/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_gc_activities/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_gc_gke/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_gc_gke/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_gc_helm/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_gc_helm/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_gc_pods/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_gc_pods/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_gc_previews/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_gc_previews/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_gc_releases/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_gc_releases/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_activities/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_activities/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_addons/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_addons/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_applications/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_applications/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_aws/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_aws/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_branchpattern/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_branchpattern/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_build/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_build/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_build_log/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_build_log/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_build_pods/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_build_pods/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_buildpack/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_buildpack/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_chat/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_chat/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_config/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_config/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_cve/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_cve/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_devpod/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_devpod/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_eks/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_eks/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_environments/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_environments/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_git/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_git/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_helmbin/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_helmbin/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_issue/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_issue/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_issues/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_issues/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_limits/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_limits/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_pipelines/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_pipelines/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_plugins/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_plugins/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_post/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_post/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_previews/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_previews/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_quickstartlocations/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_quickstartlocations/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_releases/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_releases/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_secrets/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_secrets/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_storage/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_storage/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_teamroles/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_teamroles/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_teams/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_teams/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_token/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_token/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_token_addon/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_token_addon/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_tracker/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_tracker/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_urls/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_urls/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_users/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_users/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_vault-config/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_vault-config/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_vaults/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_vaults/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_workflows/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_workflows/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_import/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_import/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_init/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_init/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_install/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_install/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_install_dependencies/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_install_dependencies/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_login/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_login/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_logs/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_logs/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_namespace/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_namespace/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_open/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_open/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_options/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_options/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_preview/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_preview/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_promote/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_promote/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_prompt/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_prompt/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_repository/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_repository/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_rsh/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_rsh/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_scan/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_scan/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_scan_cluster/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_scan_cluster/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_shell/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_shell/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_start/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_start/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_start_pipeline/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_start_pipeline/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_start_protection/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_start_protection/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_status/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_status/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_bdd/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_bdd/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_blog/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_blog/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_buildpack/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_buildpack/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_buildpack_apply/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_buildpack_apply/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_changelog/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_changelog/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_create/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_create/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_create_build/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_create_build/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_create_buildtemplate/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_create_buildtemplate/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_create_task/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_create_task/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_credential/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_credential/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_env/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_env/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_env_apply/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_env_apply/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_git/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_git/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_git_credentials/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_git_credentials/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_git_envs/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_git_envs/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_gpg/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_gpg/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_helm/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_helm/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_helm_apply/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_helm_apply/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_helm_build/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_helm_build/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_helm_delete/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_helm_delete/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_helm_env/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_helm_env/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_helm_install/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_helm_install/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_helm_list/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_helm_list/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_helm_release/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_helm_release/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_helm_version/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_helm_version/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_link/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_link/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_next-buildnumber/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_next-buildnumber/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_next-version/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_next-version/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_nexus/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_nexus/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_nexus_drop/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_nexus_drop/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_nexus_release/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_nexus_release/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_post/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_post/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_post_build/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_post_build/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_post_install/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_post_install/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_post_run/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_post_run/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_pr/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_pr/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_pr_comment/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_pr_comment/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_pre/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_pre/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_pre_build/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_pre_build/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_pre_extend/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_pre_extend/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_release/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_release/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_split/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_split/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_stash/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_stash/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_tag/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_tag/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_unstash/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_unstash/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_validate/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_validate/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_verify/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_verify/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_wait/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_wait/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_stop/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_stop/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_stop_pipeline/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_stop_pipeline/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_sync/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_sync/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_team/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_team/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_uninstall/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_uninstall/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_update/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_update/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_update_cluster/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_update_cluster/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_update_cluster_gke/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_update_cluster_gke/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_update_cluster_gke_terraform/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_update_cluster_gke_terraform/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_update_webhooks/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_update_webhooks/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_upgrade/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_upgrade/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_upgrade_addons/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_upgrade_addons/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_upgrade_addons_prow/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_upgrade_addons_prow/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_upgrade_apps/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_upgrade_apps/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_upgrade_binaries/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_upgrade_binaries/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_upgrade_cli/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_upgrade_cli/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_upgrade_cluster/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_upgrade_cluster/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_upgrade_extensions/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_upgrade_extensions/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_upgrade_extensions_repository/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_upgrade_extensions_repository/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_upgrade_ingress/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_upgrade_ingress/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_upgrade_platform/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_upgrade_platform/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_version/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_version/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_collect/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_collect/</loc>
     <lastmod>2019-01-17T11:11:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_report/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_report/</loc>
     <lastmod>2019-01-16T17:36:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_report_activities/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_report_activities/</loc>
     <lastmod>2019-01-16T17:36:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_report_releases/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_report_releases/</loc>
     <lastmod>2019-01-16T17:36:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/news/happy-first-birthday/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/news/happy-first-birthday/</loc>
     <lastmod>2019-01-15T17:45:03+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/news/changes-20-december-2018/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/news/changes-20-december-2018/</loc>
     <lastmod>2018-12-20T17:36:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/news/changes-november-26-2018/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/news/changes-november-26-2018/</loc>
     <lastmod>2019-01-09T16:45:41-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_serve-buildnumbers/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_serve-buildnumbers/</loc>
     <lastmod>2018-11-16T18:14:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_start_compliance/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_start_compliance/</loc>
     <lastmod>2018-10-25T09:02:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/news/serverless-jenkins/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/news/serverless-jenkins/</loc>
     <lastmod>2018-10-20T10:07:42+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_controller_compliance/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_controller_compliance/</loc>
     <lastmod>2018-10-17T23:30:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_pre_check/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_pre_check/</loc>
     <lastmod>2018-10-13T12:14:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_pre_check_compliance/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_pre_check_compliance/</loc>
     <lastmod>2018-10-13T12:14:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_update_extensions/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_update_extensions/</loc>
     <lastmod>2018-10-08T09:05:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_update_extensions_repository/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_update_extensions_repository/</loc>
     <lastmod>2018-10-08T09:05:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/news/helm-without-tiller/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/news/helm-without-tiller/</loc>
     <lastmod>2018-10-10T09:07:42+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/news/jenkins-x-at-jenkinsworld/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/news/jenkins-x-at-jenkinsworld/</loc>
     <lastmod>2018-09-06T09:47:59+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/news/changes-august-24-2018/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/news/changes-august-24-2018/</loc>
     <lastmod>2018-08-24T17:05:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_gcp-service-account/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_gcp-service-account/</loc>
     <lastmod>2018-07-23T18:37:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_addon_owasp/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_addon_owasp/</loc>
     <lastmod>2018-07-18T14:25:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_step_service/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_step_service/</loc>
     <lastmod>2018-07-11T19:08:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/news/changes-may-21-2018/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/news/changes-may-21-2018/</loc>
     <lastmod>2018-05-21T17:08:07+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_cdx/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_cdx/</loc>
     <lastmod>2018-05-15T21:52:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_addon_cdx/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_addon_cdx/</loc>
     <lastmod>2018-05-16T09:48:16-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/news/jenkins-x-does-kubecon/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/news/jenkins-x-does-kubecon/</loc>
     <lastmod>2018-05-05T10:30:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/news/changes-april-27-2018/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/news/changes-april-27-2018/</loc>
     <lastmod>2019-01-21T12:52:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/news/changes-april-11-2018/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/news/changes-april-11-2018/</loc>
     <lastmod>2019-01-21T12:52:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/news/introducing-jenkins-x/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/news/introducing-jenkins-x/</loc>
     <lastmod>2018-04-11T16:52:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/news/jep-400-submitted/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/news/jep-400-submitted/</loc>
     <lastmod>2018-04-11T16:52:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_delete_env/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_delete_env/</loc>
     <lastmod>2018-03-09T13:26:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_get_apps/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_get_apps/</loc>
     <lastmod>2018-03-09T13:26:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_addon/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_addon/</loc>
     <lastmod>2018-03-06T13:30:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_addon_cdx/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_addon_cdx/</loc>
     <lastmod>2018-03-06T13:30:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_addon_gitea/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_addon_gitea/</loc>
     <lastmod>2018-03-06T13:30:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_create_jenkins_user/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_create_jenkins_user/</loc>
     <lastmod>2018-03-06T13:30:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/jx_metrics/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/jx_metrics/</loc>
     <lastmod>2018-03-06T13:30:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/</loc>
     <lastmod>2018-03-13T16:01:42+11:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/"
+                href="https://hferentschik.github.io/jenkins-x-website/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/categories/about-jenkins-x/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/categories/about-jenkins-x/</loc>
     <lastmod>2018-07-02T21:39:57+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/categories/about-jenkins-x/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/categories/about-jenkins-x/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/categories/about-jenkins-x/"
+                href="https://hferentschik.github.io/jenkins-x-website/categories/about-jenkins-x/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/categories/apps/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/categories/apps/</loc>
     <lastmod>2019-01-24T08:55:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/categories/blog/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/categories/blog/</loc>
     <lastmod>2019-01-15T17:45:03+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/categories/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/categories/</loc>
     <lastmod>2018-07-02T21:39:57+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/categories/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/categories/"
+                href="https://hferentschik.github.io/jenkins-x-website/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/commands/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/commands/</loc>
     <lastmod>2019-01-28T16:58:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/categories/contribute/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/categories/contribute/</loc>
     <lastmod>2018-05-07T17:12:38+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/categories/contribute/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/categories/contribute/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/categories/contribute/"
+                href="https://hferentschik.github.io/jenkins-x-website/categories/contribute/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/categories/faq/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/categories/faq/</loc>
     <lastmod>2019-01-21T18:20:22+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/categories/faq/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/categories/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/categories/faq/"
+                href="https://hferentschik.github.io/jenkins-x-website/categories/faq/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/categories/fundamentals/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/categories/fundamentals/</loc>
     <lastmod>2018-04-11T18:19:38+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/categories/fundamentals/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/categories/fundamentals/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/categories/fundamentals/"
+                href="https://hferentschik.github.io/jenkins-x-website/categories/fundamentals/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/categories/getting-started/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/categories/getting-started/</loc>
     <lastmod>2018-05-15T08:10:56+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/categories/getting-started/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/categories/getting-started/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/categories/getting-started/"
+                href="https://hferentschik.github.io/jenkins-x-website/categories/getting-started/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/news/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/news/</loc>
     <lastmod>2018-05-22T09:59:41+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/news/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/news/"
+                href="https://hferentschik.github.io/jenkins-x-website/news/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/categories/triage/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/categories/triage/</loc>
     <lastmod>2018-12-18T16:28:49+00:00</lastmod>
     <priority>0</priority>
   </url>

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fundamentals on Jenkins X</title>
-    <link>https://jenkins-x.io/categories/fundamentals/</link>
+    <link>https://hferentschik.github.io/jenkins-x-website/categories/fundamentals/</link>
     <description>Recent content in Fundamentals on Jenkins X</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jenkins-x.io/categories/fundamentals/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hferentschik.github.io/jenkins-x-website/categories/fundamentals/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Architecture</title>
-      <link>https://jenkins-x.io/architecture/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/architecture/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/architecture/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/architecture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demos</title>
-      <link>https://jenkins-x.io/demos/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/demos/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/demos/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/demos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Get Started</title>
-      <link>https://jenkins-x.io/getting-started/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/getting-started/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/getting-started/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/getting-started/</guid>
       <description>The simplest way to get started is via the Google Cloud Tutorials.
 Otherwise first you will need to get the jx command line tool locally on your machine.
 You can use the jx command line to create a new kubernetes cluster with Jenkins X installed automatically.
@@ -44,59 +44,59 @@ When you have a kubernetes cluster with Jenkins X installed, check out your next
     
     <item>
       <title>Features</title>
-      <link>https://jenkins-x.io/about/features/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/about/features/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/about/features/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/about/features/</guid>
       <description>Command Line Jenkins X comes with a handy jx command line tool to easily:
  install Jenkins X inside your existing kubernetes cluster create a new kubernetes cluster and install Jenkins X into it import projects into Jenkins X and their Continuous Delivery pipelines setup create new Spring Boot applications which get imported into Jenkins X and their Continuous Delivery pipelines setup  Pipelines Rather than having to have deep knowledge of the internals of Jenkins Pipeline, Jenkins X will default awesome pipelines for your projects that implements fully CI and CD using DevOps best practices</description>
     </item>
     
     <item>
       <title>Accelerate</title>
-      <link>https://jenkins-x.io/about/accelerate/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/about/accelerate/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/about/accelerate/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/about/accelerate/</guid>
       <description>Jenkins X is a reimagined CI/CD implementation for the Cloud which is heavily influence by the State of DevOps reports and more recently the Accelerate book from Nicole Forsgren, Jez Humble and Gene Kim.
 Years of gathering data from real world teams and organisations which has been analyzed by inspiring thought leaders and data scientists from the DevOps world. The Accelerate book recommends a number of capabilities that Jenkins X is implementing so users gain the scientifically proven benefits, out of the box.</description>
     </item>
     
     <item>
       <title>Concepts</title>
-      <link>https://jenkins-x.io/about/concepts/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/about/concepts/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/about/concepts/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/about/concepts/</guid>
       <description>Jenkins X is designed to make it simple for developers to work to DevOps principles and best practices. The approaches taken are based on the comprehensive research done for the book ACCELERATE: Building and Scaling High Performing Technology Organsiations. You can read why we use Accelerate for the principals behind Jenkins X.
 Principles &amp;ldquo;DevOps is a set of practices intended to reduce the time between committing a change to a system and the change being placed into normal production, while ensuring high quality.</description>
     </item>
     
     <item>
       <title>Planned Features</title>
-      <link>https://jenkins-x.io/contribute/roadmap/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/contribute/roadmap/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/contribute/roadmap/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/contribute/roadmap/</guid>
       <description>Feature Not Planned Planned In Progress Released     Operating Systems       macOS    1.1.x   Linux    1.1.x   Windows   In Progress    Cloud Providers       AWS kops    1.1.x   AWS EKS    1.3.x   Azure    1.</description>
     </item>
     
     <item>
       <title>Decisions</title>
-      <link>https://jenkins-x.io/about/decisions/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/about/decisions/</link>
       <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/about/decisions/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/about/decisions/</guid>
       <description>Decisions Jenkins X is an opinionated developer experience, here we will explain the background and decisions we have taken to help explain the reasons for these opinions. You may also want to take a look at the Accelerate page for details on how Jenkins X implements the capabilities recommended by
 Kubernetes First is why Jenkins X is purely focused on Kubernetes and is only intended to run on it.</description>
     </item>
     
     <item>
       <title>Create Camel</title>
-      <link>https://jenkins-x.io/developing/create-camel/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/developing/create-camel/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/developing/create-camel/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/developing/create-camel/</guid>
       <description>If you want to create a new Spring Boot based microservice using Apache Camel you can use the jx create camel command.
 $ jx create camel You are then prompted for the project name.
 If you want you can specify this on the command line:
@@ -105,10 +105,10 @@ $ jx create camel -a myapp What happens when you create a camel microservice Onc
     
     <item>
       <title>Create Quickstart</title>
-      <link>https://jenkins-x.io/developing/create-quickstart/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/developing/create-quickstart/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/developing/create-quickstart/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/developing/create-quickstart/</guid>
       <description>Quickstarts are pre-made applications you can start a project from, instead of starting from scratch.
 You can create new applications from our list of curated Quickstart applications via the jx create quickstart command.
 $ jx create quickstart You are then prompted for a list of quickstarts to choose from.
@@ -118,10 +118,10 @@ $ jx create quickstart -l go Or use a text filter to filter on the project names
     
     <item>
       <title>Create Spring Boot</title>
-      <link>https://jenkins-x.io/developing/create-spring/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/developing/create-spring/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/developing/create-spring/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/developing/create-spring/</guid>
       <description>If you are developing Java microservices then you may well be using the popular Spring Boot.
 You can create new Spring Boot applications using the Spring Boot Initializr and then import them into Jenkins X via the jx import command.
 However another alternative is to use the jx create spring command which provides a fast automated path.
@@ -130,10 +130,10 @@ There is a demo of using the command: jx create spring or you can try it out you
     
     <item>
       <title>Status</title>
-      <link>https://jenkins-x.io/about/status/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/about/status/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/about/status/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/about/status/</guid>
       <description>This page describes any specific manual work arounds you may require above and beyond changes described in the News section or using jx upgrade to upgrade the CLI or platform
 8 Jan 2019: Prow and Knative Build upgrade There are three critical bugs with the prow based Jenkins X https://github.com/jenkins-x/jx/issues/2539 https://github.com/jenkins-x/jx/issues/2561 https://github.com/jenkins-x/jx/issues/2544
 The fixes involve upgrading to a newer version of Prow and Knative Build, the latter caused an issue when performing a traditional jx upgrade addon so we recommend uninstalling Knative Build first (removes Knative Build related Custom Resource Definitions) and install the latest release.</description>

@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>https://jenkins-x.io/en/sitemap.xml</loc>
+	   	<loc>https://hferentschik.github.io/jenkins-x-website/en/sitemap.xml</loc>
 		
 	   	<lastmod>2019-01-28T16:58:44+00:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://jenkins-x.io/zh/sitemap.xml</loc>
+	   	<loc>https://hferentschik.github.io/jenkins-x-website/zh/sitemap.xml</loc>
 		
 	   	<lastmod>2019-01-21T12:52:11+00:00</lastmod>
 		

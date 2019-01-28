@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>给 Jenkins X 项目做贡献 on Jenkins X</title>
-    <link>https://jenkins-x.io/zh/contribute/</link>
+    <link>https://hferentschik.github.io/jenkins-x-website/zh/contribute/</link>
     <description>Recent content in 给 Jenkins X 项目做贡献 on Jenkins X</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jenkins-x.io/zh/contribute/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hferentschik.github.io/jenkins-x-website/zh/contribute/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>贡献代码</title>
-      <link>https://jenkins-x.io/zh/contribute/development/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/contribute/development/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/contribute/development/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/contribute/development/</guid>
       <description>介绍 Jenkins X is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Jenkins X even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development.
 假设 This contribution guide takes a step-by-step approach in hopes of helping newcomers. Therefore, we only assume the following:
  You are new to Git or open-source projects in general You are a fan of Jenkins X and enthusiastic about contributing to the project   If you&amp;rsquo;re struggling at any point in this contribution guide, reach out to the Jenkins X community in Jenkins X&amp;rsquo;s Discussion forum.</description>
@@ -24,19 +24,19 @@
     
     <item>
       <title>路线图</title>
-      <link>https://jenkins-x.io/zh/contribute/roadmap/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/contribute/roadmap/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/contribute/roadmap/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/contribute/roadmap/</guid>
       <description>特色 未计划 已计划 进行中 已发布     操作系统       macOS    1.1.x   Linux    1.1.x   Windows  已计划     Cloud Providers       AWS    1.1.x   Azure    1.1.x   EKS  已计划     GKE    1.</description>
     </item>
     
     <item>
       <title>文档贡献</title>
-      <link>https://jenkins-x.io/zh/contribute/documentation/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/contribute/documentation/</link>
       <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/contribute/documentation/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/contribute/documentation/</guid>
       <description>创建派生库 最好在你本地的机器上修改 Jenkins X 文档，检查视觉风格一致。确保你已经在 GitHub 上派生了 jx-docs，并在你的机器上克隆了这个库。更多信息，你可以查看 GitHub 的&amp;rdquo;派生&amp;rdquo;文档 或者按照 Jenkins X 开发贡献指导。
 然后，你可以创建一个独立的分支。一定要选择符合内容类型的描述性分支名称。下面的一个示例分支的名称，你可以用于添加一个新的网站用于展示：
 git checkout -b jon-doe-showcase-addition  添加新的内容 Jenkins X 文档重用 Jenkins X 的[骨架][]特点。在 Jenkins X 文档中所有内容章节都分配了骨架。

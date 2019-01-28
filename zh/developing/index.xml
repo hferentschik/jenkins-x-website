@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>研发 on Jenkins X</title>
-    <link>https://jenkins-x.io/zh/developing/</link>
+    <link>https://hferentschik.github.io/jenkins-x-website/zh/developing/</link>
     <description>Recent content in 研发 on Jenkins X</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jenkins-x.io/zh/developing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hferentschik.github.io/jenkins-x-website/zh/developing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>创建 Spring Boot</title>
-      <link>https://jenkins-x.io/zh/developing/create-spring/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/developing/create-spring/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/developing/create-spring/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/developing/create-spring/</guid>
       <description>如果你在开发基于Java的微服务，那么，你可能正在用流行的Spring Boot。
 你可以利用Spring Boot Initializr创建Spring Boot应用，然后通过执行命令 jx import 来导入Jenkins X。
 然而，另外一个快速自动化的方式，是通过执行 jx create spring 命令实现：
@@ -28,10 +28,10 @@ $ jx create spring -d web -d actuator 参数 -d 允许你指定希望添加到 S
     
     <item>
       <title>快速开始</title>
-      <link>https://jenkins-x.io/zh/developing/create-quickstart/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/developing/create-quickstart/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/developing/create-quickstart/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/developing/create-quickstart/</guid>
       <description>你可以由预制的应用开始一个项目，而不是从头开始。
 你可以通过命令 jx create quickstart ，从我们预制的快速应用列表中创建一个新的应用。
 $ jx create quickstart 然后，根据列表选择一个。
@@ -43,10 +43,10 @@ $ jx create quickstart -f http 当你选择快速开始时的细节 一旦你选
     
     <item>
       <title>导入</title>
-      <link>https://jenkins-x.io/zh/developing/import/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/developing/import/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/developing/import/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/developing/import/</guid>
       <description>如果你已经有一些源码，希望导入 Jenkins X，你可以使用 jx import 命令。
 $ cd my-cool-app $ jx import 导入将会执行下面的动作（提示你按照这个方法来）：
  如果你的源码还不在 git 库中，添加进去 在给定的 git 服务上创建一个远程库，例如 GitHub 把你的代码推送到远程 git 服务 添加任何需要的文件到你的工程中，如果不存在的话：  Dockerfile 把你的应用作为 docker 镜像进行构建 Jenkinsfile 实现持续集成、持续构建流水线 helm chart 让你的应用在 Kubernetes 中运行  为你们团队的 Jenkins 注册一个 webhook 到远程 git 仓库 为你们团队的 Jenkins 添加这个 git 仓库 首次触发流水线  避免 docker + helm 如果你正在导入的仓库而不需要创建 docker 镜像，你可以使用命令参数 --no-draft ，就不会使用 Draft 默认的 Dockerfile 和 helm chart。
@@ -55,10 +55,10 @@ $ cd my-cool-app $ jx import 导入将会执行下面的动作（提示你按照
     
     <item>
       <title>浏览</title>
-      <link>https://jenkins-x.io/zh/developing/browsing/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/developing/browsing/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/developing/browsing/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/developing/browsing/</guid>
       <description>如果你之前用过 Kubernetes，你可能使用过 kubectl 命令查看 Kubernetes 资源：
 kubectl get pods Jenkins X 的命令行工具，jx，和 kubectl 看起来相似，并且可以让你看到所有的 Jenkins X 资源。
 查看 Jenkins 控制台 如果你熟悉 Jenkins 控制台，那么你可以使用 jx console ：
@@ -74,10 +74,10 @@ jx get activities 如果你想要观察你的应用 myapp，你可以使用：</
     
     <item>
       <title>Kubernetes 上下文</title>
-      <link>https://jenkins-x.io/zh/developing/kube-context/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/developing/kube-context/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/developing/kube-context/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/developing/kube-context/</guid>
       <description>Kubernetes 命令行工具 kubectl 通过本地文件 ~/.kube/config（会在 $KUBECONFIG 的文件） 记录你使用的 Kubernetes 集群和命名空间。
 如果你想要改变命名空间，你可以使用 kubectl 命令行：
 kubectl config set-context`kubectl config current-context` --namespace=foo 然而 jx 还提供了很多有用的命令，用来改变集群、命名空间或环境：
@@ -93,10 +93,10 @@ jx context 你会得到当前机器上所有上下文的列表。使用方向键
     
     <item>
       <title>升级</title>
-      <link>https://jenkins-x.io/zh/developing/promote/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/developing/promote/</link>
       <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/developing/promote/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/developing/promote/</guid>
       <description>Jenkins X 的升级策略配置为 Auto 时，持续部署流水线通过配置好的环境来自动化升级版本。默认情况下，Staging 环境使用自动升级，生产环境使用手动升级。
 要手动升级应用的一个版本到特定环境上，可以使用命令 jx promote。
 jx promote myapp --version 1.2.3 --env production 该命令会等待升级完成，并记录过程的详细信息。你可以通过参数 --timeeout 为升级等待设置超时时间。
@@ -108,10 +108,10 @@ jx promote myapp --version 1.2.3 --env production --timeout 5h 你可以使用�
     
     <item>
       <title>预览</title>
-      <link>https://jenkins-x.io/zh/developing/preview/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/developing/preview/</link>
       <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/developing/preview/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/developing/preview/</guid>
       <description> 我们强烈建议使用 预览环境 ，使得在变更合并到 master 之前尽快地得到反馈。
 通常，预览环境是由 Jenkins X 的流水线中自动创建的。
 然而，你可以使用 jx 通过命令 jx preview 手动创建一个预览环境。
@@ -120,10 +120,10 @@ jx preview 创建预览环境时都做了什么  一个新的 环境 ，例如 �
     
     <item>
       <title>IDE</title>
-      <link>https://jenkins-x.io/zh/developing/ide/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/developing/ide/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/developing/ide/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/developing/ide/</guid>
       <description> 作为开发人员，我们经常在 IDE 上花大量的时间来编码。Jenkins X 完全是为了帮助开发人员快速交付商业价值的，因此，我们希望使得 Jenkins X 在你的 IDE 中更加容易使用。
 因此，我们有 IDE 插件来方便使用 Jenkins X。
 VS Code VS Code 是一个流行的来自微软的开源 IDE。
@@ -136,10 +136,10 @@ VS Code VS Code 是一个流行的来自微软的开源 IDE。
     
     <item>
       <title>问题</title>
-      <link>https://jenkins-x.io/zh/developing/issues/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/developing/issues/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/developing/issues/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/developing/issues/</guid>
       <description>Jenkins X 默认使用你的 git 提供商中的问题跟踪系统来创建和浏览问题。
 例如：如果你在 GitHub 项目中的源码中，那么你可以输入 jx create issue：
 jx create issue -t &amp;quot;lets make things more awesome&amp;quot;  一个新的问题就会在 GitHub 上被创建。
@@ -153,10 +153,10 @@ jx create tracker token -n jira myEmailAddress  配置项目的问题跟踪 在�
     
     <item>
       <title>Git 服务器</title>
-      <link>https://jenkins-x.io/zh/developing/git/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/developing/git/</link>
       <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/developing/git/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/developing/git/</guid>
       <description>Jenkins X 默认使用 GitHub，用于开源项目的免费公共 git 托管方案。
 然而，在企业中工作时，你可能希望使用不同的 git 服务器。
 你可以通过 jx get git 列出配置好的 git 服务器。

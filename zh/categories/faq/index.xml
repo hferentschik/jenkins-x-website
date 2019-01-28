@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Faq on Jenkins X</title>
-    <link>https://jenkins-x.io/zh/categories/faq/</link>
+    <link>https://hferentschik.github.io/jenkins-x-website/zh/categories/faq/</link>
     <description>Recent content in Faq on Jenkins X</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sun, 20 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jenkins-x.io/zh/categories/faq/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hferentschik.github.io/jenkins-x-website/zh/categories/faq/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jenkins 相关问题</title>
-      <link>https://jenkins-x.io/zh/faq/jenkins/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/faq/jenkins/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/faq/jenkins/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/faq/jenkins/</guid>
       <description>密码 安装在 Jenkins X 中的 Jenkins 没有提供修改管理员密码的页面，但是你可以通过配置文件 ~/.jx/jenkinsAuth.yaml 来获取密码。</description>
     </item>
     
     <item>
       <title>常见问题解答</title>
-      <link>https://jenkins-x.io/zh/faq/faq/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/faq/faq/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/faq/faq/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/faq/faq/</guid>
       <description>我们已经试图把一些常见的问题整理到这里。如果你遇到的问题没有在这里列出来，请让我们知道。
 Jenkins X 是开源的吗？ 是的！Jenkins X 的所有源码和成品都是开源的；Apache 或 MIT 能保证这一点！
 Jenkins X 是 Jenkins 的分支吗？ 不！Jenkins X 总是复用 Jenkins 核心，并尽可能把它配置作为 Kubenetes 的本地资源。
@@ -39,10 +39,10 @@ Jenkins 最强大的是它的灵活性和巨大的插件生态。分离 Jenkins 
     
     <item>
       <title>安装问题</title>
-      <link>https://jenkins-x.io/zh/faq/setup/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/faq/setup/</link>
       <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/faq/setup/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/faq/setup/</guid>
       <description>如何在 Jenkins X 的安装当中添加用户？ Jenkins X 假设每个用户都可以访问运行 Jenkins X 的 kubernetes 开发集群。
 如果您的用户无权访问 kubernetes 集群，我们需要设置他们的 ~/.kube/config 文件，以便他们可以访问它。
 如果您正在使用 Google 的 GKE ，那么您可以浏览 GKE Console 以查看所有集群，然后单击开发集群旁边的 Connect 按钮，然后可以运行复制/粘贴命令以连接到集群。
@@ -55,10 +55,10 @@ jx get env jx open  查看环境和任何开发工具，如 Jenkins 或 Nexus �
     
     <item>
       <title>常见问题解答</title>
-      <link>https://jenkins-x.io/zh/faq/issues/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/faq/issues/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/faq/issues/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/faq/issues/</guid>
       <description>我们已经试图把一些常见的问题整理到这里。如果你遇到的问题没有在这里列出来，请让我们知道。
 无法创建 minikube 集群 如果你使用的是 Mac，那么， hyperkit 是最好的虚拟机驱动——但首先需要你安装最新的Docker for Mac。之后，尝试 jx create cluster minikube。
 如果，你的 minikube 启动失败，那么你可以尝试：
@@ -72,10 +72,10 @@ Temporary Error: Could not find an IP address for 46:0:41:86:41:6e Temporary Err
     
     <item>
       <title>技术性问题</title>
-      <link>https://jenkins-x.io/zh/faq/technology/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/faq/technology/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/faq/technology/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/faq/technology/</guid>
       <description>什么是 Helm? helm 是 Kubernetes 的开源包管理器。
 它和其他的包管理工具（brew, yum, npm等）类似，有一个或者更多的包仓库可以安装（在 helm 中叫做 charts 和 kubernetes 的主题保持一致），可以搜索、安装和升级。
 一个 helm chart 基本上是带版本的 kubernetes yaml 压缩包 ，可以轻松地安装在任何 kubnernetes 集群上。
@@ -87,10 +87,10 @@ Helm 通过文件 requirements.yaml 支持组合（一个 chart 可以包含其�
     
     <item>
       <title>开发问题</title>
-      <link>https://jenkins-x.io/zh/faq/develop/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/faq/develop/</link>
       <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/faq/develop/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/faq/develop/</guid>
       <description>如何注入特定的环境配置 Jenkins X 中的每个环境都在 git 存储库中定义; 我们使用 GitOps 来管理每个环境中的所有更改，例如：
  添加/删除应用 更改应用程序的版本（更新或回滚） 使用环境特定值配置任何应用程序  前两个项在您环境的 git 存储库的 env/requirements.yaml 文件中定义。 后者在 env/values.yaml 文件中定义。
 Helm charts 使用 values.yaml文件，以便您可以覆盖 charts 中的任何配置以修改设置，例如任何资源或资源配置上的标签或注释（例如 replicaCount ）或将环境变量等内容传递给 Deployment 。

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>关于 Jenkins X on Jenkins X</title>
-    <link>https://jenkins-x.io/zh/about/</link>
+    <link>https://hferentschik.github.io/jenkins-x-website/zh/about/</link>
     <description>Recent content in 关于 Jenkins X on Jenkins X</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jenkins-x.io/zh/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hferentschik.github.io/jenkins-x-website/zh/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>特色</title>
-      <link>https://jenkins-x.io/zh/about/features/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/about/features/</link>
       <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/about/features/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/about/features/</guid>
       <description>命令行 Jenkins X 带来了一个方便使用的命令行工具 jx ：
  安装 Jenkins X 到你已经存在的 Kubernetes 集群 创建一个新的 kubernetes 集群 并把 Jenkins X 安装进去 导入项目 到 Jenkins X 中以及他们的持续部署流水线设置 创建新的 Spring Boot 应用 并导入 Jenkins X 中，以及他们的持续部署流水线设置  流水线 不必深入了解 Jenkins 流水线的内部，Jenkins X 会默认给你的项目提供一些很好的流水线——基于DevOps 最佳实践实现了所有的持续集成和持续部署
 环境 环境指的是应用部署的地方。开发人员通常使用缩写来描述环境，例如：“测试中（Testing）、Staging/UAT或者生产（Production）”。
@@ -27,10 +27,10 @@
     
     <item>
       <title>加速</title>
-      <link>https://jenkins-x.io/zh/about/accelerate/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/about/accelerate/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/about/accelerate/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/about/accelerate/</guid>
       <description>Jenkins X 重新构思了云原生时代下的 CI/CD 实现，这些想法受到了 DevOps 状态报告和近来大热的《Accelerate》一书的深刻影响，这本书的三位合著者分别是：Nicole Forsgren、Jez Humble以及Gene Kim。
 经年累月基于真实世界中的团队和组织收集上来的数据被 DevOps 领域的思想领袖和数据科学家们进行了深入的分析。《Accelerate》一书总结了一组有助于实施 DevOps 的能力，这些能力被 Jenkins X 实现以帮助用户以开箱即用的方式获取到科学证明过的收益。我们会从已经实现的能力项入手，并不断整合更多的能力进来。
 对所有构件进行版本控制 来自 Weaveworks 的天才们创造了 GitOps 的概念，这一点我们非常认同。对环境的任何变更，无论是一个新的应用，版本升级，资源约束变更，还是简单的应用配置，都应该在 Git 上提交一个 Pull Request ，并且采用类似环境的持续集成对这些变更进行验证，并且经过团队的审核，这个团队负责所有相关环境的变更控制。于是针对一个环境的任何变更都可以被追溯并且达到受控状态。
@@ -43,10 +43,10 @@ Jenkins X 的终极目标是提供一种方式，帮助开发人员、测试人�
     
     <item>
       <title>概念</title>
-      <link>https://jenkins-x.io/zh/about/concepts/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/about/concepts/</link>
       <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/about/concepts/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/about/concepts/</guid>
       <description>Jenkins X 旨在使得 DevOps 原则和最佳实践对于研发人员来说简单。
 原则 &amp;ldquo;DevOps 是一套旨在缩短从提交变更到生产发布的时间的实践，同时保证高质量&amp;rdquo;
 DevOps项目的目标：
@@ -66,10 +66,10 @@ Kubernetes 中的部署单元是 Pod，它包含一个或多个 Docker 容器以
     
     <item>
       <title>Apache License</title>
-      <link>https://jenkins-x.io/zh/about/license/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/about/license/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/about/license/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/about/license/</guid>
       <description>Jenkins X is released under the Apache 2.0 license.
 Version 2.0, January 2004 http://www.apache.org/licenses/LICENSE-2.0
 Terms and Conditions for use, reproduction, and distribution

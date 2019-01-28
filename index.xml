@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jenkins X – Jenkins X is a CI / CD platform for Kubernetes</title>
-    <link>https://jenkins-x.io/</link>
+    <link>https://hferentschik.github.io/jenkins-x-website/</link>
     <description>Recent Hugo news from jenkins-x.io</description>
     <generator>Hugo -- jenkins-x.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     <image>
-      <url>https://jenkins-x.io/img/hugo.png</url>
+      <url>https://hferentschik.github.io/jenkins-x-website/img/hugo.png</url>
       <title>GoHugo.io</title>
-      <link>https://jenkins-x.io/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/</link>
     </image>
     
-	<atom:link href="https://jenkins-x.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hferentschik.github.io/jenkins-x-website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>News: Happy 1st Birthday Jenkins X</title>
-      <link>https://jenkins-x.io/news/happy-first-birthday/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/news/happy-first-birthday/</link>
       <pubDate>Mon, 14 Jan 2019 07:36:00 +0200</pubDate>
       
-      <guid>https://jenkins-x.io/news/happy-first-birthday/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/news/happy-first-birthday/</guid>
       <description>
         
         
@@ -29,7 +29,7 @@
 
 &lt;p&gt;Time flies when you are delivering software. It has been just over a year since the &lt;a href=&#34;https://github.com/jenkins-x/jx/commit/e255f7ea050c4a410a21183ec85a510c8e4ca8c6&#34;&gt;initial commit&lt;/a&gt; went into Github for Jenkins X, the CI/CD solution for cloud native. In just 12 months, Jenkins X progress has been breathtaking, so let’s celebrate by taking a look at all that has been accomplished in this short space of time.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://jenkins-x.io/news/jenkins-x-first-birthday/birthday.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hferentschik.github.io/jenkins-x-website/news/jenkins-x-first-birthday/birthday.jpg&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;One of the main founders of Jenkins X is &lt;a href=&#34;https://twitter.com/jstrachan&#34;&gt;James Strachan&lt;/a&gt; of CloudBees, who is known for building many popular open source software projects such as &lt;a href=&#34;http://groovy-lang.org/index.html&#34;&gt;Apache Groovy&lt;/a&gt;, &lt;a href=&#34;http://camel.apache.org/&#34;&gt;Apache Camel&lt;/a&gt; and fabric8. Notable these projects also have enduring open source software communities around them. With all this experience it is safe to say James simply gets developers and what they want, need and care about.&lt;/p&gt;
 
@@ -99,10 +99,10 @@
     
     <item>
       <title>News: Merry Jenkins X Mas!</title>
-      <link>https://jenkins-x.io/news/changes-20-december-2018/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/news/changes-20-december-2018/</link>
       <pubDate>Thu, 20 Dec 2018 15:07:24 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/news/changes-20-december-2018/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/news/changes-20-december-2018/</guid>
       <description>
         
         
@@ -117,8 +117,8 @@
 &lt;p&gt;We had hundreds of folks who asked some really great questions - thanks to all those who attended! A few of the highlighted questions:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Jenkins X has git support for multiple git providers like GitHub, GitHub Enterprise, BitBucket Cloud, BitBucket Server and GitLab when using static Jenkins masters - however currently &lt;a href=&#34;https://jenkins-x.io/news/serverless-jenkins/&#34;&gt;Serverless Jenkins&lt;/a&gt; only supports GitHub. We&amp;rsquo;re &lt;a href=&#34;https://github.com/kubernetes/test-infra/issues/10146&#34;&gt;working on it&lt;/a&gt; and hope to add more git providers soon!&lt;/li&gt;
-&lt;li&gt;Here is how you can &lt;a href=&#34;https://jenkins-x.io/news/helm-without-tiller/&#34;&gt;avoid Tiller when using helm with Jenkins X&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jenkins X has git support for multiple git providers like GitHub, GitHub Enterprise, BitBucket Cloud, BitBucket Server and GitLab when using static Jenkins masters - however currently &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/news/serverless-jenkins/&#34;&gt;Serverless Jenkins&lt;/a&gt; only supports GitHub. We&amp;rsquo;re &lt;a href=&#34;https://github.com/kubernetes/test-infra/issues/10146&#34;&gt;working on it&lt;/a&gt; and hope to add more git providers soon!&lt;/li&gt;
+&lt;li&gt;Here is how you can &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/news/helm-without-tiller/&#34;&gt;avoid Tiller when using helm with Jenkins X&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;kubecon-was-awesome&#34;&gt;KubeCon was awesome&lt;/h2&gt;
@@ -127,17 +127,17 @@
 
 &lt;p&gt;There was a huge amount of excitement in both automating CI/CD for kubernetes and making Jenkins serverless. Thanks to all those who popped by for a chat!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://jenkins-x.io/news/changes-20-december-2018/xmen.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hferentschik.github.io/jenkins-x-website/news/changes-20-december-2018/xmen.jpg&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Also &lt;a href=&#34;https://twitter.com/csanchez&#34;&gt;Carlos&lt;/a&gt; did a great talk and live demo on &lt;a href=&#34;https://www.youtube.com/watch?v=IDEa8seAzVc&amp;amp;feature=youtu.be&#34;&gt;Jenkins X: Continuous Delivery for Kubernetes&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://jenkins-x.io/news/changes-20-december-2018/kubecon.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hferentschik.github.io/jenkins-x-website/news/changes-20-december-2018/kubecon.jpg&#34;&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;office-hours&#34;&gt;Office Hours&lt;/h2&gt;
 
-&lt;p&gt;We had an &lt;a href=&#34;https://jenkins-x.io/community/#office-hours&#34;&gt;Office Hours&lt;/a&gt; last week at &lt;a href=&#34;https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/&#34;&gt;KubeCon Seattle&lt;/a&gt;, you can check out the &lt;a href=&#34;https://docs.google.com/document/d/1wHdBlZAN-ndPELuBoM5HBnYiQLvcz92-euXne2mKOEI/edit#heading=h.21iu8gndhf9c&#34;&gt;notes here&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=TF_Mxq5sDsI&#34;&gt;watch the video here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We had an &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/community/#office-hours&#34;&gt;Office Hours&lt;/a&gt; last week at &lt;a href=&#34;https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/&#34;&gt;KubeCon Seattle&lt;/a&gt;, you can check out the &lt;a href=&#34;https://docs.google.com/document/d/1wHdBlZAN-ndPELuBoM5HBnYiQLvcz92-euXne2mKOEI/edit#heading=h.21iu8gndhf9c&#34;&gt;notes here&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=TF_Mxq5sDsI&#34;&gt;watch the video here&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Please join the next one in January! Or if you can&amp;rsquo;t wait &lt;a href=&#34;https://jenkins-x.io/community/#slack&#34;&gt;just jump onto slack&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please join the next one in January! Or if you can&amp;rsquo;t wait &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/community/#slack&#34;&gt;just jump onto slack&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;metrics&#34;&gt;Metrics&lt;/h2&gt;
 
@@ -670,7 +670,7 @@
 &lt;h2 id=&#34;downloads&#34;&gt;Downloads&lt;/h2&gt;
 
 &lt;canvas id=&#34;downloadsChart&#34; width=&#34;400&#34; height=&#34;200&#34;&gt;&lt;/canvas&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;https://jenkins-x.io/news/changes-20-december-2018/downloads.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://hferentschik.github.io/jenkins-x-website/news/changes-20-december-2018/downloads.js&#34;&gt;&lt;/script&gt;
 &lt;/canvas&gt;
 
 &lt;p&gt;This blog post was generated via the &lt;a href=&#34;https://jenkins-x.io/commands/jx_step_blog/&#34;&gt;jx step blog&lt;/a&gt; command from &lt;a href=&#34;https://jenkins-x.io/&#34;&gt;Jenkins X&lt;/a&gt;.&lt;/p&gt;
@@ -680,24 +680,24 @@
     
     <item>
       <title>News: Here comes Cloud Native Jenkins</title>
-      <link>https://jenkins-x.io/news/changes-november-26-2018/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/news/changes-november-26-2018/</link>
       <pubDate>Mon, 26 Nov 2018 08:31:04 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/news/changes-november-26-2018/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/news/changes-november-26-2018/</guid>
       <description>
         
         
         
 
-&lt;p&gt;The last few months have been crazy busy in the Jenkins X community. We&amp;rsquo;ve had 2 &lt;a href=&#34;https://jenkins-x.io/news/jenkins-x-at-jenkinsworld/&#34;&gt;Jenkins World&lt;/a&gt; conferences in San Francisco and Nice, introduced &lt;a href=&#34;https://jenkins-x.io/news/serverless-jenkins/&#34;&gt;serverless jenkins&lt;/a&gt; and  &lt;a href=&#34;https://jenkins-x.io/news/helm-without-tiller/&#34;&gt;tiller-less helm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The last few months have been crazy busy in the Jenkins X community. We&amp;rsquo;ve had 2 &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/news/jenkins-x-at-jenkinsworld/&#34;&gt;Jenkins World&lt;/a&gt; conferences in San Francisco and Nice, introduced &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/news/serverless-jenkins/&#34;&gt;serverless jenkins&lt;/a&gt; and  &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/news/helm-without-tiller/&#34;&gt;tiller-less helm&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Now we have released support for &lt;a href=&#34;https://jenkins-x.io/architecture/cloud-native-jenkins/&#34;&gt;Cloud Native Jenkins&lt;/a&gt; which lets us support pluggable workloads for different teams (e.g. kubernetes workloads, traditional workloads of libraries and binaries or other workloads).&lt;/p&gt;
+&lt;p&gt;Now we have released support for &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/architecture/cloud-native-jenkins/&#34;&gt;Cloud Native Jenkins&lt;/a&gt; which lets us support pluggable workloads for different teams (e.g. kubernetes workloads, traditional workloads of libraries and binaries or other workloads).&lt;/p&gt;
 
-&lt;p&gt;For more details on Cloud Native Jenkins please see the &lt;a href=&#34;https://jenkins-x.io/architecture/cloud-native-jenkins/&#34;&gt;Cloud Native Jenkins documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more details on Cloud Native Jenkins please see the &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/architecture/cloud-native-jenkins/&#34;&gt;Cloud Native Jenkins documentation&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Meanwhile we&amp;rsquo;ve been doing lots of work improving the &lt;a href=&#34;https://jenkins-x.io/extending/&#34;&gt;App extension model&lt;/a&gt; in Jenkins X to make it an open source platform for CI+CD and DevOps.&lt;/p&gt;
+&lt;p&gt;Meanwhile we&amp;rsquo;ve been doing lots of work improving the &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/extending/&#34;&gt;App extension model&lt;/a&gt; in Jenkins X to make it an open source platform for CI+CD and DevOps.&lt;/p&gt;
 
-&lt;p&gt;Please &lt;a href=&#34;https://jenkins-x.io/community/&#34;&gt;join us in the commmunity&lt;/a&gt; and lets help each other &lt;a href=&#34;https://jenkins-x.io/about/accelerate/&#34;&gt;accelerate&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/community/&#34;&gt;join us in the commmunity&lt;/a&gt; and lets help each other &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/about/accelerate/&#34;&gt;accelerate&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;metrics&#34;&gt;Metrics&lt;/h2&gt;
 
@@ -2945,7 +2945,7 @@
 &lt;h2 id=&#34;downloads&#34;&gt;Downloads&lt;/h2&gt;
 
 &lt;canvas id=&#34;downloadsChart&#34; width=&#34;400&#34; height=&#34;200&#34;&gt;&lt;/canvas&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;https://jenkins-x.io/news/changes-26-november-2018/downloads.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://hferentschik.github.io/jenkins-x-website/news/changes-26-november-2018/downloads.js&#34;&gt;&lt;/script&gt;
 &lt;/canvas&gt;
 
 &lt;p&gt;This blog post was generated via the &lt;a href=&#34;https://jenkins-x.io/commands/jx_step_blog/&#34;&gt;jx step blog&lt;/a&gt; command from &lt;a href=&#34;https://jenkins-x.io/&#34;&gt;Jenkins X&lt;/a&gt;.&lt;/p&gt;
@@ -2955,10 +2955,10 @@
     
     <item>
       <title>News: Serverless Jenkins</title>
-      <link>https://jenkins-x.io/news/serverless-jenkins/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/news/serverless-jenkins/</link>
       <pubDate>Sat, 20 Oct 2018 07:36:00 +0200</pubDate>
       
-      <guid>https://jenkins-x.io/news/serverless-jenkins/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/news/serverless-jenkins/</guid>
       <description>
         
         
@@ -2968,12 +2968,12 @@
 
 &lt;p&gt;&lt;a href=&#34;https://medium.com/@jdrawlings/&#34;&gt;James Rawlings&lt;/a&gt; as just published an excellent article on &lt;a href=&#34;https://medium.com/@jdrawlings/serverless-jenkins-with-jenkins-x-9134cbfe6870&#34;&gt;Serverless Jenkins with Jenkins X&lt;/a&gt; which is well worth a read.&lt;/p&gt;
 
-&lt;p&gt;It describes how you can use it via the &lt;code&gt;--prow&lt;/code&gt; feature flag when using either &lt;a href=&#34;https://jenkins-x.io/commands/jx_create_cluster&#34;&gt;jx create cluster&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It describes how you can use it via the &lt;code&gt;--prow&lt;/code&gt; feature flag when using either &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/commands/jx_create_cluster&#34;&gt;jx create cluster&lt;/a&gt;&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;jx create cluster gke --prow
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;or &lt;a href=&#34;https://jenkins-x.io/commands/jx_install&#34;&gt;jx install&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;or &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/commands/jx_install&#34;&gt;jx install&lt;/a&gt;&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;jx install --prow 
 &lt;/code&gt;&lt;/pre&gt;
@@ -2987,10 +2987,10 @@
     
     <item>
       <title>News: Helm 2.x without Tiller</title>
-      <link>https://jenkins-x.io/news/helm-without-tiller/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/news/helm-without-tiller/</link>
       <pubDate>Wed, 03 Oct 2018 07:36:00 +0200</pubDate>
       
-      <guid>https://jenkins-x.io/news/helm-without-tiller/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/news/helm-without-tiller/</guid>
       <description>
         
         
@@ -3022,19 +3022,19 @@
 
 &lt;p&gt;Until Helm 3 the Jenkins X community needed a nice workaround for tiller on helm 2.x.&lt;/p&gt;
 
-&lt;p&gt;So now if you want to use Jenkins X without tiller there&amp;rsquo;s a new magic command line argument &lt;code&gt;--no-tiller&lt;/code&gt; you can use when &lt;a href=&#34;https://jenkins-x.io/getting-started/create-cluster/&#34;&gt;creating a cluster&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;So now if you want to use Jenkins X without tiller there&amp;rsquo;s a new magic command line argument &lt;code&gt;--no-tiller&lt;/code&gt; you can use when &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/getting-started/create-cluster/&#34;&gt;creating a cluster&lt;/a&gt;:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt; jx create cluster gke --no-tiller 
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;or if you are &lt;a href=&#34;https://jenkins-x.io/getting-started/install-on-cluster/&#34;&gt;installing on an existing kubernetes cluster&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;or if you are &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/getting-started/install-on-cluster/&#34;&gt;installing on an existing kubernetes cluster&lt;/a&gt;:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt; jx install --no-tiller
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;h3 id=&#34;how-does-it-work&#34;&gt;How does it work?&lt;/h3&gt;
 
-&lt;p&gt;To be able to change the helm behaviour via feature flags we abstracted away the low level calls to the helm CLI behind some &lt;a href=&#34;https://jenkins-x.io/commands/jx_step_helm/&#34;&gt;jx step helm&lt;/a&gt; commands. e.g. to apply a helm chart in an environment pipeline we use&amp;hellip;&lt;/p&gt;
+&lt;p&gt;To be able to change the helm behaviour via feature flags we abstracted away the low level calls to the helm CLI behind some &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/commands/jx_step_helm/&#34;&gt;jx step helm&lt;/a&gt; commands. e.g. to apply a helm chart in an environment pipeline we use&amp;hellip;&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;jx step helm apply
 &lt;/code&gt;&lt;/pre&gt;
@@ -3045,7 +3045,7 @@
 
 &lt;p&gt;Then we use &lt;code&gt;kubectl apply&lt;/code&gt; to apply the YAML.&lt;/p&gt;
 
-&lt;p&gt;Since we are using &lt;a href=&#34;https://jenkins-x.io/about/features/#promotion&#34;&gt;GitOps&lt;/a&gt; in Jenkins X it turns out we don&amp;rsquo;t really need to rely on Helm&amp;rsquo;s use of kubernetes resources to store environment specific configuration values; since everything is already in git!&lt;/p&gt;
+&lt;p&gt;Since we are using &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/about/features/#promotion&#34;&gt;GitOps&lt;/a&gt; in Jenkins X it turns out we don&amp;rsquo;t really need to rely on Helm&amp;rsquo;s use of kubernetes resources to store environment specific configuration values; since everything is already in git!&lt;/p&gt;
 
 &lt;p&gt;One added complication though is, with Helm you can add and remove resources inside a chart and as you upgrade to newer versions of the chart the old resources get automatically removed. Also with helm there&amp;rsquo;s a way to remove a release by name and all the resources are removed.&lt;/p&gt;
 
@@ -3082,7 +3082,7 @@
 
 &lt;p&gt;If you use helm then we highly recommend you avoid tiller!&lt;/p&gt;
 
-&lt;p&gt;If you are using Jenkins X then please consider using the &lt;code&gt;--no-tiller&lt;/code&gt;  option when you&amp;rsquo;re &lt;a href=&#34;https://jenkins-x.io/getting-started/create-cluster/&#34;&gt;creating a cluster&lt;/a&gt; or &lt;a href=&#34;https://jenkins-x.io/getting-started/install-on-cluster/&#34;&gt;install Jenkins X on an existing cluster&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you are using Jenkins X then please consider using the &lt;code&gt;--no-tiller&lt;/code&gt;  option when you&amp;rsquo;re &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/getting-started/create-cluster/&#34;&gt;creating a cluster&lt;/a&gt; or &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/getting-started/install-on-cluster/&#34;&gt;install Jenkins X on an existing cluster&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;We&amp;rsquo;re working  on Jenkins X 2.0 - most of its features are already available hidden behind feature flags. So in Jenkins X 2.0 we will default disable tiller by default along with enabling other things like Prow integration and using &lt;em&gt;serverless&lt;/em&gt; Jenkins by default (more on those in a separate blog!).&lt;/p&gt;
 
@@ -3093,10 +3093,10 @@
     
     <item>
       <title>News: Jenkins X at Jenkins World</title>
-      <link>https://jenkins-x.io/news/jenkins-x-at-jenkinsworld/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/news/jenkins-x-at-jenkinsworld/</link>
       <pubDate>Thu, 06 Sep 2018 08:36:00 +0200</pubDate>
       
-      <guid>https://jenkins-x.io/news/jenkins-x-at-jenkinsworld/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/news/jenkins-x-at-jenkinsworld/</guid>
       <description>
         
         
@@ -3123,10 +3123,10 @@
     
     <item>
       <title>News: Changes for August 24 2018</title>
-      <link>https://jenkins-x.io/news/changes-august-24-2018/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/news/changes-august-24-2018/</link>
       <pubDate>Fri, 24 Aug 2018 16:55:10 +0100</pubDate>
       
-      <guid>https://jenkins-x.io/news/changes-august-24-2018/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/news/changes-august-24-2018/</guid>
       <description>
         
         
@@ -3139,11 +3139,11 @@
 &lt;p&gt;Here&amp;rsquo;s a quick summary of some of the main things that&amp;rsquo;s happened this summer:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;we have awesome &lt;a href=&#34;https://jenkins-x.io/about/tutorials/&#34;&gt;new tutorials&lt;/a&gt; to get you started even faster on GKE&lt;/li&gt;
-&lt;li&gt;we now have &lt;a href=&#34;https://jenkins-x.io/getting-started/create-cluster/#using-amazon-aws&#34;&gt;full support AWS both kops and EKS&lt;/a&gt; with ECR support OOTB thanks to the excellent eksctl tool which helps us create EKS clusters on Amazon&lt;/li&gt;
+&lt;li&gt;we have awesome &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/about/tutorials/&#34;&gt;new tutorials&lt;/a&gt; to get you started even faster on GKE&lt;/li&gt;
+&lt;li&gt;we now have &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/getting-started/create-cluster/#using-amazon-aws&#34;&gt;full support AWS both kops and EKS&lt;/a&gt; with ECR support OOTB thanks to the excellent eksctl tool which helps us create EKS clusters on Amazon&lt;/li&gt;
 &lt;li&gt;Gareth wrote an &lt;a href=&#34;https://www.cloudbees.com/blog/using-jx-create-gitops-managed-jenkins-x-installation-%C2%A0cloudbees-codeship-and-terraform-gke&#34;&gt;awesome blog&lt;/a&gt; describing how we can auomate spinning up a CodeShip CI job that automates your cloud infrastructure, setting up 1..N kubernetes clusters then installing Jenkins X on top with Terraform - GitOps FTW.&lt;/li&gt;
-&lt;li&gt;a new &lt;a href=&#34;https://jenkins-x.io/commands/jx_compliance/&#34;&gt;jx compliance&lt;/a&gt; set of commands to easily test your Kubernetes cluster for compliance using the excellent Sonobuoy tool from Heptio&lt;/li&gt;
-&lt;li&gt;easily scan your kubernetes cluster for security issues via &lt;a href=&#34;https://jenkins-x.io/commands/jx_scan/&#34;&gt;jx scan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;a new &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/commands/jx_compliance/&#34;&gt;jx compliance&lt;/a&gt; set of commands to easily test your Kubernetes cluster for compliance using the excellent Sonobuoy tool from Heptio&lt;/li&gt;
+&lt;li&gt;easily scan your kubernetes cluster for security issues via &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/commands/jx_scan/&#34;&gt;jx scan&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;We are currently working on more flexible CI and promotion options and deep Prow integration among many other things!&lt;/p&gt;
@@ -4673,7 +4673,7 @@
 &lt;h2 id=&#34;downloads&#34;&gt;Downloads&lt;/h2&gt;
 
 &lt;canvas id=&#34;downloadsChart&#34; width=&#34;400&#34; height=&#34;200&#34;&gt;&lt;/canvas&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;https://jenkins-x.io/news/changes-24-august-2018/downloads.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://hferentschik.github.io/jenkins-x-website/news/changes-24-august-2018/downloads.js&#34;&gt;&lt;/script&gt;
 &lt;/canvas&gt;
 
 &lt;p&gt;This blog post was generated via the &lt;a href=&#34;https://jenkins-x.io/commands/jx_step_blog/&#34;&gt;jx step blog&lt;/a&gt; command from &lt;a href=&#34;https://jenkins-x.io/&#34;&gt;Jenkins X&lt;/a&gt;.&lt;/p&gt;
@@ -4683,25 +4683,25 @@
     
     <item>
       <title>News: Changes for May 21 2018</title>
-      <link>https://jenkins-x.io/news/changes-may-21-2018/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/news/changes-may-21-2018/</link>
       <pubDate>Mon, 21 May 2018 14:35:26 +0100</pubDate>
       
-      <guid>https://jenkins-x.io/news/changes-may-21-2018/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/news/changes-may-21-2018/</guid>
       <description>
         
         
         
 
-&lt;p&gt;Its been a busy 24 days since our &lt;a href=&#34;https://jenkins-x.io/news/changes-april-27-2018/&#34;&gt;last blog post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Its been a busy 24 days since our &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/news/changes-april-27-2018/&#34;&gt;last blog post&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;We had our first &lt;a href=&#34;https://www.youtube.com/watch?v=bvStct7Cz5E&#34;&gt;Jenkins X Office Hours&lt;/a&gt; which was lots of fun. We meet every other Thursday at 5pm BST / 12pm US Eastern. Feel free to  &lt;a href=&#34;https://docs.google.com/document/d/1wHdBlZAN-ndPELuBoM5HBnYiQLvcz92-euXne2mKOEI/edit&#34;&gt;add your questions to the doc&lt;/a&gt; or hangout live and ask questions in person. More details on the &lt;a href=&#34;https://jenkins-x.io/community/#office-hours&#34;&gt;community page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We had our first &lt;a href=&#34;https://www.youtube.com/watch?v=bvStct7Cz5E&#34;&gt;Jenkins X Office Hours&lt;/a&gt; which was lots of fun. We meet every other Thursday at 5pm BST / 12pm US Eastern. Feel free to  &lt;a href=&#34;https://docs.google.com/document/d/1wHdBlZAN-ndPELuBoM5HBnYiQLvcz92-euXne2mKOEI/edit&#34;&gt;add your questions to the doc&lt;/a&gt; or hangout live and ask questions in person. More details on the &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/community/#office-hours&#34;&gt;community page&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;We also did a bunch of presentations:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;James Strachan presented &lt;a href=&#34;https://youtu.be/BF3MhFjvBTU?list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op&#34;&gt;Jenkins X at DevOxx UK&lt;/a&gt; with a live demo on GKE. &lt;a href=&#34;https://www.youtube.com/redirect?event=comments&amp;amp;redir_token=8Ho_5LeDnDKOo6D5oWgr_dKtmPl8MTUyNjk5NzM4M0AxNTI2OTEwOTgz&amp;amp;q=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1hwt2lFh3cCeFdP4xoT_stMPs0nh2xVZUtze6o79WfXc%2Fedit%3Fusp%3Dsharing&#34;&gt;Slides are here&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;James Rawlings presented &lt;a href=&#34;https://blog.cloudnativewales.io/001_ourfirstmeetup/&#34;&gt;Jenkins X at Cloud Native Wales&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;James Strachan presented &lt;a href=&#34;https://jenkins-x.io/news/jenkins-x-does-kubecon/&#34;&gt;Jenkins X at KubeCon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;James Strachan presented &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/news/jenkins-x-does-kubecon/&#34;&gt;Jenkins X at KubeCon&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Finally we made it over &lt;a href=&#34;https://github.com/jenkins-x/jx&#34;&gt;1000 stars on github&lt;/a&gt; within 2 months of announcing the project. Please keep the stars coming if you&amp;rsquo;ve not yet given Jenkins X a star!&lt;/p&gt;
@@ -4710,9 +4710,9 @@
 
 &lt;p&gt;We&amp;rsquo;ve now &lt;a href=&#34;quickstarts&#34;&gt;lots more quickstarts&lt;/a&gt; such as rails and python support. There&amp;rsquo;s a &lt;a href=&#34;https://medium.com/@maniankara/ci-cd-with-jenkins-x-on-your-existing-gke-cluster-ruby-on-rails-application-785d8390a857&#34;&gt;great blog on that here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;One big change in the project is the new &lt;a href=&#34;https://jenkins-x.io/developing/ide/&#34;&gt;VS Code Extension&lt;/a&gt; which we&amp;rsquo;ll blog about soon in detail to walk through all the capabilities we&amp;rsquo;ve got &amp;amp; how to get started using it.&lt;/p&gt;
+&lt;p&gt;One big change in the project is the new &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/developing/ide/&#34;&gt;VS Code Extension&lt;/a&gt; which we&amp;rsquo;ll blog about soon in detail to walk through all the capabilities we&amp;rsquo;ve got &amp;amp; how to get started using it.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://jenkins-x.io/images/vscode.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hferentschik.github.io/jenkins-x-website/images/vscode.png&#34;&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;metrics&#34;&gt;Metrics&lt;/h2&gt;
 
@@ -4992,7 +4992,7 @@
 &lt;h2 id=&#34;downloads&#34;&gt;Downloads&lt;/h2&gt;
 
 &lt;canvas id=&#34;downloadsChart&#34; width=&#34;400&#34; height=&#34;200&#34;&gt;&lt;/canvas&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;https://jenkins-x.io/news/changes-21-may-2018/downloads.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://hferentschik.github.io/jenkins-x-website/news/changes-21-may-2018/downloads.js&#34;&gt;&lt;/script&gt;
 &lt;/canvas&gt;
 
 &lt;p&gt;This blog post was generated via the &lt;a href=&#34;http://jenkins-x.io/commands/jx_step_blog/&#34;&gt;jx step blog&lt;/a&gt; command from &lt;a href=&#34;http://jenkins-x.io/&#34;&gt;Jenkins X&lt;/a&gt;.&lt;/p&gt;
@@ -5002,10 +5002,10 @@
     
     <item>
       <title>News: Jenkins X does KubeCon</title>
-      <link>https://jenkins-x.io/news/jenkins-x-does-kubecon/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/news/jenkins-x-does-kubecon/</link>
       <pubDate>Sat, 05 May 2018 10:36:00 +0200</pubDate>
       
-      <guid>https://jenkins-x.io/news/jenkins-x-does-kubecon/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/news/jenkins-x-does-kubecon/</guid>
       <description>
         
         
@@ -5019,7 +5019,7 @@
 
 &lt;p&gt;You can also &lt;a href=&#34;https://docs.google.com/presentation/d/19DAFONpT3L4t6sisyTuK2_chHrVorQO_1ijWEo8Euas/edit?usp=sharing&#34;&gt;get the slides from this talk here&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://jenkins-x.io/news/jenkins-x-does-kubecon/kubecon-talk.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hferentschik.github.io/jenkins-x-website/news/jenkins-x-does-kubecon/kubecon-talk.jpg&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;You can also watch all the other &lt;a href=&#34;https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo&#34;&gt;KubeCon videos here&lt;/a&gt;&lt;/p&gt;
 
@@ -5032,10 +5032,10 @@
     
     <item>
       <title>News: Changes for April 27 2018</title>
-      <link>https://jenkins-x.io/news/changes-april-27-2018/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/news/changes-april-27-2018/</link>
       <pubDate>Fri, 27 Apr 2018 15:30:44 +0100</pubDate>
       
-      <guid>https://jenkins-x.io/news/changes-april-27-2018/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/news/changes-april-27-2018/</guid>
       <description>
         
         
@@ -5049,15 +5049,15 @@
 
 &lt;ul&gt;
 &lt;li&gt;we have moved to using &lt;a href=&#34;https://github.com/GoogleContainerTools/skaffold&#34;&gt;skaffold&lt;/a&gt; for building docker images so that we can easily take advantage of things like Google Container Builder or &lt;a href=&#34;https://github.com/GoogleContainerTools/kaniko&#34;&gt;kaniko&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;new &lt;a href=&#34;https://jenkins-x.io/developing/devpods/&#34;&gt;DevPods&lt;/a&gt; are a thing; making it easy to use your kubernetes cluster for building, testing and running apps&lt;/li&gt;
-&lt;li&gt;new integration with &lt;a href=&#34;https://anchore.com/&#34;&gt;Anchore&lt;/a&gt; for security scanning via &lt;a href=&#34;https://jenkins-x.io/commands/jx_get_cve/&#34;&gt;jx get cve&lt;/a&gt; or in a pipeline you can use &lt;a href=&#34;https://jenkins-x.io/commands/jx_step_post_build/&#34;&gt;jx step post build&lt;/a&gt; - we&amp;rsquo;ll blog separately about that next week&lt;/li&gt;
+&lt;li&gt;new &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/developing/devpods/&#34;&gt;DevPods&lt;/a&gt; are a thing; making it easy to use your kubernetes cluster for building, testing and running apps&lt;/li&gt;
+&lt;li&gt;new integration with &lt;a href=&#34;https://anchore.com/&#34;&gt;Anchore&lt;/a&gt; for security scanning via &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/commands/jx_get_cve/&#34;&gt;jx get cve&lt;/a&gt; or in a pipeline you can use &lt;a href=&#34;https://jenkins-x.io/commands/jx_step_post_build/&#34;&gt;jx step post build&lt;/a&gt; - we&amp;rsquo;ll blog separately about that next week&lt;/li&gt;
 &lt;li&gt;thanks to the work of &lt;a href=&#34;https://github.com/LinuxSuRen&#34;&gt;@LinuxSuRen&lt;/a&gt; we now have the initial &lt;a href=&#34;https://jenkins-x.io/zh/&#34;&gt;Chinese translation of the Jenkins X documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;we now support &lt;a href=&#34;https://jenkins-x.io/getting-started/create-cluster/&#34;&gt;MiniShift&lt;/a&gt; as well as AKS, AWS, GKE and vanilla kubernetes clusters.&lt;/li&gt;
-&lt;li&gt;we now have a much more flexible mechanism of handling Secrets/Credentials so dealing with &lt;a href=&#34;https://jenkins-x.io/contribute/roadmap/&#34;&gt;other git providers is now much simpler&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;we finally got lots more &lt;a href=&#34;https://jenkins-x.io/architecture/&#34;&gt;architecture documentation&lt;/a&gt; on how Jenkins X fits together.&lt;/li&gt;
+&lt;li&gt;we now support &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/getting-started/create-cluster/&#34;&gt;MiniShift&lt;/a&gt; as well as AKS, AWS, GKE and vanilla kubernetes clusters.&lt;/li&gt;
+&lt;li&gt;we now have a much more flexible mechanism of handling Secrets/Credentials so dealing with &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/contribute/roadmap/&#34;&gt;other git providers is now much simpler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;we finally got lots more &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/architecture/&#34;&gt;architecture documentation&lt;/a&gt; on how Jenkins X fits together.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The &lt;a href=&#34;https://jenkins-x.io/contribute/roadmap/&#34;&gt;Jenkins X Futures page has been updated&lt;/a&gt; to give a better feel for where we are.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/contribute/roadmap/&#34;&gt;Jenkins X Futures page has been updated&lt;/a&gt; to give a better feel for where we are.&lt;/p&gt;
 
 &lt;p&gt;Also if you are going to be at &lt;a href=&#34;https://kccnceu18.sched.com/&#34;&gt;KubeCon&lt;/a&gt; then please come to the session by &lt;a href=&#34;https://kccnceu18.sched.com/event/Dquk?iframe=no&#34;&gt;James Strachan on Jenkins X&lt;/a&gt; or pop by the CloudBees both and say hi!&lt;/p&gt;
 
@@ -5390,7 +5390,7 @@
 &lt;h2 id=&#34;downloads&#34;&gt;Downloads&lt;/h2&gt;
 
 &lt;canvas id=&#34;downloadsChart&#34; width=&#34;400&#34; height=&#34;200&#34;&gt;&lt;/canvas&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;https://jenkins-x.io/news/changes-27-april-2018/downloads.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://hferentschik.github.io/jenkins-x-website/news/changes-27-april-2018/downloads.js&#34;&gt;&lt;/script&gt;
 &lt;/canvas&gt;
 
 &lt;p&gt;This blog post was generated via the &lt;a href=&#34;https://jenkins-x.io/commands/jx_step_blog/&#34;&gt;jx step blog&lt;/a&gt; command from &lt;a href=&#34;https://jenkins-x.io/&#34;&gt;Jenkins X&lt;/a&gt;.&lt;/p&gt;
@@ -5400,10 +5400,10 @@
     
     <item>
       <title>News: Changes for April 11 2018</title>
-      <link>https://jenkins-x.io/news/changes-april-11-2018/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/news/changes-april-11-2018/</link>
       <pubDate>Wed, 11 Apr 2018 16:33:07 +0100</pubDate>
       
-      <guid>https://jenkins-x.io/news/changes-april-11-2018/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/news/changes-april-11-2018/</guid>
       <description>
         
         
@@ -5415,21 +5415,21 @@
 
 &lt;p&gt;We&amp;rsquo;ve made a lot of progress and improvements! The rest of the blog goes into more detail.&lt;/p&gt;
 
-&lt;p&gt;But first I&amp;rsquo;d like to call out a few specific details from the &lt;a href=&#34;https://jenkins-x.io/contribute/roadmap/&#34;&gt;Jenkins X Futures&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;But first I&amp;rsquo;d like to call out a few specific details from the &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/contribute/roadmap/&#34;&gt;Jenkins X Futures&lt;/a&gt;:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;we now fully support GitHub and GitHub enterprise. BitBucket cloud and gitea is almost there too. Hopefully BitBucketServer and Gitlab are not too far away either. For more detail see &lt;a href=&#34;https://jenkins-x.io/developing/git/&#34;&gt;supporting different git servers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;For issue tracking we support GitHub, GitHub Enterprise and JIRA. For more detail see &lt;a href=&#34;https://jenkins-x.io/developing/issues/&#34;&gt;supporting issue trackers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Gradle support is now available from &lt;a href=&#34;https://jenkins-x.io/developing/create-spring/&#34;&gt;jx create spring&lt;/a&gt; or by importing gradle apps&lt;/li&gt;
-&lt;li&gt;Go, Node and Rust build packs are now available with more &lt;a href=&#34;https://jenkins-x.io/contribute/roadmap/&#34;&gt;planned&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;New &lt;a href=&#34;https://jenkins-x.io/about/features/#applications&#34;&gt;addons&lt;/a&gt; for &lt;a href=&#34;https://anchore.com/&#34;&gt;anchore&lt;/a&gt; and &lt;a href=&#34;http://kubeless.io/&#34;&gt;kubeless&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;we now fully support GitHub and GitHub enterprise. BitBucket cloud and gitea is almost there too. Hopefully BitBucketServer and Gitlab are not too far away either. For more detail see &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/developing/git/&#34;&gt;supporting different git servers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;For issue tracking we support GitHub, GitHub Enterprise and JIRA. For more detail see &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/developing/issues/&#34;&gt;supporting issue trackers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Gradle support is now available from &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/developing/create-spring/&#34;&gt;jx create spring&lt;/a&gt; or by importing gradle apps&lt;/li&gt;
+&lt;li&gt;Go, Node and Rust build packs are now available with more &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/contribute/roadmap/&#34;&gt;planned&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;New &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/about/features/#applications&#34;&gt;addons&lt;/a&gt; for &lt;a href=&#34;https://anchore.com/&#34;&gt;anchore&lt;/a&gt; and &lt;a href=&#34;http://kubeless.io/&#34;&gt;kubeless&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Also we&amp;rsquo;ve made it a little bit easier to keep your &lt;code&gt;jx&lt;/code&gt; binary up to date &lt;em&gt;continuously&lt;/em&gt;. Just type&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://jenkins-x.io/commands/jx_version/&#34;&gt;jx version&lt;/a&gt; to get prompted if there is a new version available and if prompted, it will upgrade itself&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jenkins-x.io/commands/jx_upgrade_cli/&#34;&gt;jx upgrade cli&lt;/a&gt; will upgrade the &lt;code&gt;jx&lt;/code&gt; binary if its available or &lt;a href=&#34;https://jenkins-x.io/commands/jx_upgrade_platform/&#34;&gt;jx upgrade platform&lt;/a&gt; for the platform&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/commands/jx_version/&#34;&gt;jx version&lt;/a&gt; to get prompted if there is a new version available and if prompted, it will upgrade itself&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/commands/jx_upgrade_cli/&#34;&gt;jx upgrade cli&lt;/a&gt; will upgrade the &lt;code&gt;jx&lt;/code&gt; binary if its available or &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/commands/jx_upgrade_platform/&#34;&gt;jx upgrade platform&lt;/a&gt; for the platform&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Some metrics might help give you an idea for our progress as a community.&lt;/p&gt;
@@ -5909,7 +5909,7 @@
 &lt;h2 id=&#34;downloads&#34;&gt;Downloads&lt;/h2&gt;
 
 &lt;canvas id=&#34;downloadsChart&#34; width=&#34;400&#34; height=&#34;200&#34;&gt;&lt;/canvas&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;https://jenkins-x.io/news/changes-11-april-2018/downloads.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://hferentschik.github.io/jenkins-x-website/news/changes-11-april-2018/downloads.js&#34;&gt;&lt;/script&gt;
 &lt;/canvas&gt;
 
 &lt;p&gt;This blog post was generated via the &lt;a href=&#34;https://jenkins-x.io/commands/jx_step_blog/&#34;&gt;jx step blog&lt;/a&gt; command from &lt;a href=&#34;https://jenkins-x.io/&#34;&gt;Jenkins X&lt;/a&gt;.&lt;/p&gt;
@@ -5919,10 +5919,10 @@
     
     <item>
       <title>News: Introducing Jenkins X</title>
-      <link>https://jenkins-x.io/news/introducing-jenkins-x/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/news/introducing-jenkins-x/</link>
       <pubDate>Mon, 19 Mar 2018 18:36:00 +0200</pubDate>
       
-      <guid>https://jenkins-x.io/news/introducing-jenkins-x/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/news/introducing-jenkins-x/</guid>
       <description>
         
         
@@ -5936,17 +5936,17 @@
 &lt;li&gt;&lt;a href=&#34;https://jenkins.io/blog/2018/03/19/introducing-jenkins-x/&#34;&gt;Introducing Jenkins X: a CI/CD solution for modern cloud applications on Kubernetes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Please check it out and &lt;a href=&#34;https://jenkins-x.io/community/&#34;&gt;let us know what you think&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please check it out and &lt;a href=&#34;https://hferentschik.github.io/jenkins-x-website/community/&#34;&gt;let us know what you think&lt;/a&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>News: JEP 400 submitted</title>
-      <link>https://jenkins-x.io/news/jep-400-submitted/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/news/jep-400-submitted/</link>
       <pubDate>Fri, 09 Mar 2018 18:36:00 +0200</pubDate>
       
-      <guid>https://jenkins-x.io/news/jep-400-submitted/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/news/jep-400-submitted/</guid>
       <description>
         
         

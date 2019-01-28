@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Architecture on Jenkins X</title>
-    <link>https://jenkins-x.io/architecture/</link>
+    <link>https://hferentschik.github.io/jenkins-x-website/architecture/</link>
     <description>Recent content in Architecture on Jenkins X</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jenkins-x.io/architecture/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hferentschik.github.io/jenkins-x-website/architecture/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Diagram</title>
-      <link>https://jenkins-x.io/architecture/diagram/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/architecture/diagram/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/architecture/diagram/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/architecture/diagram/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Components</title>
-      <link>https://jenkins-x.io/architecture/components/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/architecture/components/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/architecture/components/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/architecture/components/</guid>
       <description>An installation of Jenkins X consists of:
  a Development Environment per team which is a kubernetes namespace zero to many other Permanent Environments  the out of the box is for each team to get their own Staging and Production environments each team can have as many environments as they wish and can call them whatever they like  optional Preview Environments  Typically each environment is associated with its own kubernetes namespace which are usually different to ensure clean isolation between the environments.</description>
     </item>
     
     <item>
       <title>Source</title>
-      <link>https://jenkins-x.io/architecture/source/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/architecture/source/</link>
       <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/architecture/source/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/architecture/source/</guid>
       <description>Jenkins X is built on the shoulders of giants and also has lots of different source repositories to make various things from CLI tools, docker images, helm charts and addon Apps
 This page lists the main organisations and repositories.
 Organisations  jenkins-x the main organisation for source code jenkins-x-apps contains the standard addon Apps for Jenkins X jenkins-x-buildpacks contains the available build packs jenkins-x-charts the main helm charts we distribute jenkins-x-images contains some custom docker image builds jenkins-x-quickstarts the quickstart projects used by create quickstart jenkins-x-test-projects test projects we use in test cases  Repositories Here we&amp;rsquo;ll call out of some of the main repositories in the above organisations:</description>
@@ -43,10 +43,10 @@ Organisations  jenkins-x the main organisation for source code jenkins-x-apps co
     
     <item>
       <title>Custom Resources</title>
-      <link>https://jenkins-x.io/architecture/custom-resources/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/architecture/custom-resources/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/architecture/custom-resources/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/architecture/custom-resources/</guid>
       <description>Kubernetes provides an extension mechanism called Custom Resources which allows microservices to extend the Kubernetes platform to solve higher order problems.
 So in Jenkins X, we have added a number of Custom Resources to help extend Kubernetes to support CI/CD:
 Environments Jenkins X natively supports environments allowing them to be defined for your team and then queried via jx get environments:
@@ -55,10 +55,10 @@ jx get environments Under the covers that command uses the custom Kubernetes res
     
     <item>
       <title>Build Packs</title>
-      <link>https://jenkins-x.io/architecture/build-packs/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/architecture/build-packs/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/architecture/build-packs/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/architecture/build-packs/</guid>
       <description>We use draft style build packs for different languages, runtimes and build tools to add the necessary configuration files to projects as we import them or create them so that we can build and deploy them in kubernetes.
 The build packs are used to default the following files if they do not already exist in the project being created/imported:
  Dockerfile to turn the code into an immutable docker image for running on kubernetes Jenkinsfile to define the declarative Jenkins pipeline to define the CI/CD steps for the application helm chart in the charts folder to generate the kubernetes resources to run the application on kubernetes a preview chart in the charts/preview folder to define any dependencies for deploying a preview environment on a Pull Request</description>
@@ -66,10 +66,10 @@ The build packs are used to default the following files if they do not already e
     
     <item>
       <title>Prow</title>
-      <link>https://jenkins-x.io/architecture/prow/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/architecture/prow/</link>
       <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/architecture/prow/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/architecture/prow/</guid>
       <description>Prow is a Kubernetes based CI/CD system. Jobs can be triggered by various types of events and report their status to many different services. In addition to job execution, Prow provides GitHub automation in the form of policy enforcement, chat-ops via /foo style commands, and automatic PR merging.
 Prow has a microservice architecture implemented as a collection of container images that run as Kubernetes deployments
 hook There is a binary called hook that receives all the web hooks from GitHub.</description>
@@ -77,20 +77,20 @@ hook There is a binary called hook that receives all the web hooks from GitHub.<
     
     <item>
       <title>Cloud Native Jenkins</title>
-      <link>https://jenkins-x.io/architecture/cloud-native-jenkins/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/architecture/cloud-native-jenkins/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/architecture/cloud-native-jenkins/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/architecture/cloud-native-jenkins/</guid>
       <description>Jenkins X helps to support cloud native jenkins via:
  orchestrating either serverless jenkins using prow or a Static Jenkins masters per team. This lets teams move towards servlerless while bring along static masters too. each team can install its own Jenkins X in its own namespace (via jx install --namespace myteam) support for different workloads per team (see jx edit buildpack).  Different workloads Some teams develop cloud native applications on kubernetes and so should use the kubernetes workloads option.</description>
     </item>
     
     <item>
       <title>Pod Templates</title>
-      <link>https://jenkins-x.io/architecture/pod-templates/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/architecture/pod-templates/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/architecture/pod-templates/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/architecture/pod-templates/</guid>
       <description>We implement CI/CD pipelines using declarative Jenkins pipelines using a Jenkinsfile in the source of each application or environment git repository.
 We use the kubernetes plugin for Jenkins to be able to spin up new pods on kubernetes for each build - giving us an elastic pool of agents to run pipelines thanks to kubernetes.
 The Kubernetes plugin uses pod templates to define the pod used to run a CI/CD pipeline which consists of:</description>
@@ -98,10 +98,10 @@ The Kubernetes plugin uses pod templates to define the pod used to run a CI/CD p
     
     <item>
       <title>Storage</title>
-      <link>https://jenkins-x.io/architecture/storage/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/architecture/storage/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/architecture/storage/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/architecture/storage/</guid>
       <description>When we use a Static Jenkins Server with Jenkins X we inherit the usual Jenkins storage model; that build logs and test results and reports are stored on the Persistent Volume of the Jenkins server.
 However as we move towards a more Cloud Native Jenkins and use Serverless Jenkins we need a better solution for the storage of things like logs, test results, code coverage reports etc.
 Storage Extensions So we&amp;rsquo;ve added a storage extension point which is used from:</description>
@@ -109,20 +109,20 @@ Storage Extensions So we&amp;rsquo;ve added a storage extension point which is u
     
     <item>
       <title>Docker Registry</title>
-      <link>https://jenkins-x.io/architecture/docker-registry/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/architecture/docker-registry/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/architecture/docker-registry/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/architecture/docker-registry/</guid>
       <description>To be able to create and publish docker images we need to use a Docker Registry.
 By default Jenkins X ships with a Docker Registry which is included in the system namespace for Jenkins X along with Jenkins and Nexus. Since this docker registry is running inside your kubernetes cluster and is used internally inside your cluster its hard to expose it via HTTPS with self signed certificates - so we default to using insecure docker registries for the IP range of service IPs in your kubernetes cluster.</description>
     </item>
     
     <item>
       <title>Helm 3</title>
-      <link>https://jenkins-x.io/architecture/helm3/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/architecture/helm3/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/architecture/helm3/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/architecture/helm3/</guid>
       <description>Jenkins X uses Helm to install both Jenkins X and to install the applications you create in each of the Environments (like Staging and Production)
 NOTE until Helm 3 is GA we highly recommend folks use Helm 2.x without Tiller
 Currently Helm 3 is being developed that has a number of great improvements:
@@ -131,10 +131,10 @@ Currently Helm 3 is being developed that has a number of great improvements:
     
     <item>
       <title>RBAC</title>
-      <link>https://jenkins-x.io/architecture/rbac/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/architecture/rbac/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/architecture/rbac/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/architecture/rbac/</guid>
       <description>By default Jenkins X defers to Kubernetes for its RBAC support.
 However given a Team has a number of Environments (e.g. Dev, Staging, Production) along with dynamic Preview Environments it can be a challenge keeping all the Role and RoleBinding resources from Kubernetes RBAC in sync with all the various namespaces and members of your team.
 So Jenkins X creates a new Custom Resource called EnvironmentRoleBinding which allows you to associate a Role labelled with jenkins.</description>

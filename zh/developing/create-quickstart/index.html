@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8">
     
-    <link rel="preload" href="https://jenkins-x.io/files/muli-latin-200.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="preload" href="https://jenkins-x.io/files/muli-latin-400.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="preload" href="https://jenkins-x.io/files/muli-latin-800.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://hferentschik.github.io/jenkins-x-website/files/muli-latin-200.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://hferentschik.github.io/jenkins-x-website/files/muli-latin-400.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://hferentschik.github.io/jenkins-x-website/files/muli-latin-800.woff2" as="font" type="font/woff2" crossorigin>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
      
@@ -14,13 +14,13 @@
     <meta name="MobileOptimized" content="320">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-     <meta name="generator" content="Hugo 0.49" />
+     <meta name="generator" content="Hugo 0.53" />
 
       
-        <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
       
 
-    <link href='https://jenkins-x.io/dist/main.css' rel='stylesheet' type="text/css" /><script src="https://jenkins-x.io/js/chart.js"></script>
+    <link href='https://hferentschik.github.io/jenkins-x-website/dist/main.css' rel='stylesheet' type="text/css" /><script src="https://hferentschik.github.io/jenkins-x-website/js/chart.js"></script>
 <style>
   img.avatar {
     width: 32px;
@@ -30,7 +30,7 @@
 <meta property="og:title" content="快速开始" />
 <meta property="og:description" content="如何创建快速开始应用并导入 Jenkins X" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://jenkins-x.io/zh/developing/create-quickstart/" /><meta property="article:published_time" content="2017-02-01T00:00:00&#43;00:00"/>
+<meta property="og:url" content="https://hferentschik.github.io/jenkins-x-website/zh/developing/create-quickstart/" /><meta property="article:published_time" content="2017-02-01T00:00:00&#43;00:00"/>
 <meta property="article:modified_time" content="2019-01-09T16:45:41-05:00"/>
 
 <meta itemprop="name" content="快速开始">
@@ -38,54 +38,30 @@
 
 
 <meta itemprop="datePublished" content="2017-02-01T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2017-02-01T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2019-01-09T16:45:41-05:00" />
 <meta itemprop="wordCount" content="187">
 
 
 
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://jenkins-x.io/images/logo.png"/>
+<meta name="twitter:image" content="https://hferentschik.github.io/jenkins-x-website/images/logo.png"/>
 
 <meta name="twitter:title" content="快速开始"/>
 <meta name="twitter:description" content="如何创建快速开始应用并导入 Jenkins X"/>
 <meta name="twitter:site" content="@jenkinsxio"/>
 
-        
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4216293-7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-4216293-7');
-
-
-
-var trackOutboundLink = function(id, url) {
-  console.log("track:", id, url)
-  gtag('event', 'click', {
-    'event_category': 'outbound',
-    'event_label': id,
-    'transport_type': 'beacon',
-    'event_callback': function(){document.location = url;}
-  });
-}
-
-</script>
-
-      
-     <link href='https://jenkins-x.io/css/build_status.css' rel='stylesheet' type="text/css" />
+     <link href='https://hferentschik.github.io/jenkins-x-website/css/build_status.css' rel='stylesheet' type="text/css" />
 
   </head>
-  <body class="ma0 sans-serif bg-primary-color-light production">
+  <body class="ma0 sans-serif bg-primary-color-light">
     
 <nav class="bg-primary-color-dark pv4 w-100" role="navigation">
 
   <div class="center flex-ns flex-wrap items-center justify-start mw9">
 
     <h1 class="dim f3 lh-solid ml0-ns mr0 mr4-l mv0 pl3 pl4-ns">
-      <a href="https://jenkins-x.io/zh" class="link white">
+      <a href="https://hferentschik.github.io/jenkins-x-websitezh" class="link white">
          Jenkins X
       </a>
     </h1>
@@ -93,7 +69,7 @@ var trackOutboundLink = function(id, url) {
       
         <li class="f5 dib mr4" role="menuitem">
             
-          <a href="https://jenkins-x.io/zh/documentation" class="dim link light-silver">
+          <a href="https://hferentschik.github.io/jenkins-x-website/zh/documentation" class="dim link light-silver">
             文档
               
             
@@ -103,7 +79,7 @@ var trackOutboundLink = function(id, url) {
       
         <li class="f5 dib mr4" role="menuitem">
             
-          <a href="https://jenkins-x.io/zh/news" class="dim link light-silver">
+          <a href="https://hferentschik.github.io/jenkins-x-website/zh/news" class="dim link light-silver">
             新闻
               
             
@@ -113,7 +89,7 @@ var trackOutboundLink = function(id, url) {
       
         <li class="f5 dib mr4" role="menuitem">
             
-          <a href="https://jenkins-x.io/zh/community" class="dim link light-silver">
+          <a href="https://hferentschik.github.io/jenkins-x-website/zh/community" class="dim link light-silver">
             社区
               
             
@@ -169,13 +145,13 @@ var trackOutboundLink = function(id, url) {
   <li class="f5 dib mr4" role="menuitem">
     
     
-    <a href="https://jenkins-x.io//developing/create-quickstart/" class="dim gray">English</a>
+    <a href="https://hferentschik.github.io/jenkins-x-website//developing/create-quickstart/" class="dim gray">English</a>
   </li>
 
   <li class="f5 dib mr4" role="menuitem">
     
     
-    <a href="https://jenkins-x.io/zh/developing/create-quickstart/" class="dim gray">中文</a>
+    <a href="https://hferentschik.github.io/jenkins-x-website/zh/developing/create-quickstart/" class="dim gray">中文</a>
   </li>
 
 </ul></div>
@@ -220,7 +196,7 @@ var trackOutboundLink = function(id, url) {
 
 	<div date-pref>
 		
-			<a href="https://jenkins-x.io/zh/developing/create-spring/" class="dib f6 pl1 hover-bg-light-gray br-100" title="创建 Spring Boot ">
+			<a href="https://hferentschik.github.io/jenkins-x-website/zh/developing/create-spring/" class="dib f6 pl1 hover-bg-light-gray br-100" title="创建 Spring Boot ">
 				<svg class="fill-current" height="30px" viewBox="0 0 24 24" width="30px" xmlns="http://www.w3.org/2000/svg">
     <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/>
     <path d="M0 0h24v24H0z" fill="none"/>
@@ -230,7 +206,7 @@ var trackOutboundLink = function(id, url) {
 		
 
 		
-			<a href="https://jenkins-x.io/zh/developing/import/" class="dib f6 pr1 hover-bg-light-gray br-100" title="导入">
+			<a href="https://hferentschik.github.io/jenkins-x-website/zh/developing/import/" class="dib f6 pr1 hover-bg-light-gray br-100" title="导入">
 			<svg class="fill-current" height="30px" viewBox="0 0 24 24" width="30px" xmlns="http://www.w3.org/2000/svg">
     <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/>
     <path d="M0 0h24v24H0z" fill="none"/>
@@ -250,11 +226,11 @@ var trackOutboundLink = function(id, url) {
           <header class="flex-none w-100">
   
     
-      <a href="https://jenkins-x.io/zh/categories/fundamentals" class="f6 fw8 mb0 link mid-gray dim mr3">
+      <a href="https://hferentschik.github.io/jenkins-x-website/zh/categories/fundamentals" class="f6 fw8 mb0 link mid-gray dim mr3">
         FUNDAMENTALS
       </a>
     
-      <a href="https://jenkins-x.io/zh/categories/%E5%9F%BA%E7%A1%80" class="f6 fw8 mb0 link mid-gray dim mr3">
+      <a href="https://hferentschik.github.io/jenkins-x-website/zh/categories/%E5%9F%BA%E7%A1%80" class="f6 fw8 mb0 link mid-gray dim mr3">
         基础
       </a>
     
@@ -280,7 +256,7 @@ var trackOutboundLink = function(id, url) {
 
 <p>你可以由预制的应用开始一个项目，而不是从头开始。</p>
 
-<p>你可以通过命令 <a href="https://jenkins-x.io/commands/jx_create_quickstart">jx create quickstart</a> ，从我们预制的快速应用列表中创建一个新的应用。</p>
+<p>你可以通过命令 <a href="https://hferentschik.github.io/jenkins-x-website/commands/jx_create_quickstart">jx create quickstart</a> ，从我们预制的快速应用列表中创建一个新的应用。</p>
 <div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">$ jx create quickstart</code></pre></div>
 <p>然后，根据列表选择一个。</p>
 
@@ -317,11 +293,11 @@ var trackOutboundLink = function(id, url) {
 
 <p>当你创建完成后，我们根据工程源码的语言，使用 <a href="https://github.com/jenkins-x-buildpacks/jenkins-x-kubernetes">Jenkins X build packs</a> 来匹配最合适的构建。</p>
 
-<p>当你使用 <a href="https://jenkins-x.io/zh/getting-started/create-cluster/">jx create</a>， <a href="http://localhost:1313/getting-started/install-on-cluster/">jx install</a> 或者 <a href="https://jenkins-x.io/commands/jx_init/">jx init</a> 时，<a href="https://github.com/jenkins-x-buildpacks/jenkins-x-kubernetes">Jenkins X build packs</a> 会克隆到目录 <code>~/.jx/draft/packs</code> 中。</p>
+<p>当你使用 <a href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/create-cluster/">jx create</a>， <a href="http://localhost:1313/getting-started/install-on-cluster/">jx install</a> 或者 <a href="https://hferentschik.github.io/jenkins-x-website/commands/jx_init/">jx init</a> 时，<a href="https://github.com/jenkins-x-buildpacks/jenkins-x-kubernetes">Jenkins X build packs</a> 会克隆到目录 <code>~/.jx/draft/packs</code> 中。</p>
 
 <p>例如：你可以通过下面命令查看支持的所有语言：</p>
 <div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">ls -al ~/.jx/draft/packs/github.com/jenkins-x/draft-packs/packs</code></pre></div>
-<p>你可以使用 <a href="https://jenkins-x.io/zh/developing/create-spring/">jx create spring</a> 或 <a href="developing/import/">jx import</a> 来快速创建，这时 <a href="https://github.com/jenkins-x-buildpacks/jenkins-x-kubernetes">Jenkins X build packs</a> 会进行下面的步骤：</p>
+<p>你可以使用 <a href="https://hferentschik.github.io/jenkins-x-website/zh/developing/create-spring/">jx create spring</a> 或 <a href="developing/import/">jx import</a> 来快速创建，这时 <a href="https://github.com/jenkins-x-buildpacks/jenkins-x-kubernetes">Jenkins X build packs</a> 会进行下面的步骤：</p>
 
 <ul>
 <li>找到对应的语言包。当前包括 <a href="https://github.com/jenkins-x-buildpacks/jenkins-x-kubernetes/tree/master/packs">list of language packs</a>。</li>
@@ -330,7 +306,7 @@ var trackOutboundLink = function(id, url) {
 <ul>
 <li><code>Dockerfile</code> 将程序打包为 docker 镜像</li>
 <li><code>Jenkinsfile</code> 使用申明式流水线（pipeline）实现持续构建、持续部署</li>
-<li>Helm Charts 在 Kubernetes 上部署程序，并且实现 <a href="https://jenkins-x.io/about/features/#preview-environments">预发环境</a>
+<li>Helm Charts 在 Kubernetes 上部署程序，并且实现 <a href="https://hferentschik.github.io/jenkins-x-website/about/features/#preview-environments">预发环境</a>
 <br /></li>
 </ul></li>
 </ul>
@@ -339,7 +315,7 @@ var trackOutboundLink = function(id, url) {
 
 <p>如果你想要提交一个新的快速开始给 Jenkins X，请把你 GitHub中的链接<a href="https://github.com/jenkins-x/jx/issues/new?labels=quickstart&amp;title=Add%20quickstart&amp;body=Please%20add%20this%20github%20quickstart:">提交问题</a> 到<a href="https://github.com/jenkins-x-quickstarts">快速开始组织</a>，然后它就会出现在菜单 <code>jx create quickstart</code> 中。</p>
 
-<p>或者，你是开源项目的一份子，希望管理一套你们项目的快速开始；你可以<a href="https://github.com/jenkins-x/jx/issues/new?labels=quickstart&amp;title=Add%20quickstart&amp;body=Please%20add%20this%20github%20quickstart:">提交问题</a>，把你们的GitHub组织详细信息给我们，然后我们会它作为默认的组织添加到命令 <a href="https://jenkins-x.io/commands/jx_create_quickstart">jx create quickstart</a> 中。如果你把快速开始作为一个单独的 GitHub 组织来维护的话，对于 <a href="https://jenkins-x.io/commands/jx_create_quickstart">jx create quickstart</a> 会更容易些。</p>
+<p>或者，你是开源项目的一份子，希望管理一套你们项目的快速开始；你可以<a href="https://github.com/jenkins-x/jx/issues/new?labels=quickstart&amp;title=Add%20quickstart&amp;body=Please%20add%20this%20github%20quickstart:">提交问题</a>，把你们的GitHub组织详细信息给我们，然后我们会它作为默认的组织添加到命令 <a href="https://hferentschik.github.io/jenkins-x-website/commands/jx_create_quickstart">jx create quickstart</a> 中。如果你把快速开始作为一个单独的 GitHub 组织来维护的话，对于 <a href="https://hferentschik.github.io/jenkins-x-website/commands/jx_create_quickstart">jx create quickstart</a> 会更容易些。</p>
 
 <p>在我们完成这些事情之前，你还是可以在命令 <code>jx create quickstart</code> 中通过参数 <code>-g</code> or <code>--organisations</code> 来实现。</p>
 <div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">$ jx create quickstart  -l go --organisations my-github-org</code></pre></div>
@@ -365,31 +341,31 @@ var trackOutboundLink = function(id, url) {
             <ul class="about desktopmenu animated fadeIn list pl0 bg-light-gray dn">
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/about/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/about/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     概览
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/about/features/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/about/features/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     特色
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/about/accelerate/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/about/accelerate/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     加速
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/about/concepts/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/about/concepts/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     概念
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/about/license/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/about/license/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     License
                   </a>
                 </li>
@@ -406,49 +382,49 @@ var trackOutboundLink = function(id, url) {
             <ul class="getting-started desktopmenu animated fadeIn list pl0 bg-light-gray dn">
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/getting-started/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     入门概览
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/getting-started/install/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/install/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     获取 jx
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/getting-started/create-cluster/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/create-cluster/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     创建新集群
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/getting-started/create-custom-builder/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/create-custom-builder/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     创建自定义 Builder
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/getting-started/install-on-cluster/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/install-on-cluster/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     在 Kubernetes 上安装
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/getting-started/install-on-cluster-what-happens/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/install-on-cluster-what-happens/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     安装过程中发生了什么
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/getting-started/next/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/next/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     下一步？
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/getting-started/config/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/config/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     配置
                   </a>
                 </li>
@@ -465,67 +441,67 @@ var trackOutboundLink = function(id, url) {
             <ul class="developing desktopmenu animated fadeIn list pl0 bg-light-gray db">
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/developing/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/developing/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     研发
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/developing/create-spring/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/developing/create-spring/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     创建 Spring Boot
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/developing/create-quickstart/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 primary-color ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/developing/create-quickstart/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 primary-color ">
                     快速开始
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/developing/import/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/developing/import/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     导入
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/developing/browsing/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/developing/browsing/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     浏览
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/developing/kube-context/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/developing/kube-context/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Kubernetes 上下文
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/developing/promote/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/developing/promote/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     升级
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/developing/preview/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/developing/preview/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     预览
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/developing/ide/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/developing/ide/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     IDE
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/developing/issues/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/developing/issues/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     问题
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/developing/git/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/developing/git/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Git 服务器
                   </a>
                 </li>
@@ -542,25 +518,25 @@ var trackOutboundLink = function(id, url) {
             <ul class="demos desktopmenu animated fadeIn list pl0 bg-light-gray dn">
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/demos/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/demos/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     示例
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/demos/create_cluster_gke/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/demos/create_cluster_gke/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     创建 GKE 集群
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/demos/create_spring/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/demos/create_spring/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     创建 Spring
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/demos/create_cluster/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/demos/create_cluster/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     创建集群
                   </a>
                 </li>
@@ -577,37 +553,37 @@ var trackOutboundLink = function(id, url) {
             <ul class="architecture desktopmenu animated fadeIn list pl0 bg-light-gray dn">
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/architecture/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     架构
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/architecture/components/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/components/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     组件
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/architecture/custom-resources/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/custom-resources/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     自定义资源
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/architecture/build-packs/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/build-packs/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     构建打包
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/architecture/pod-templates/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/pod-templates/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Pod 模板
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/architecture/docker-registry/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/docker-registry/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Docker Registry
                   </a>
                 </li>
@@ -618,14 +594,14 @@ var trackOutboundLink = function(id, url) {
     
       
       <li class="f5 w-100 hover-bg-light-gray hover-accent-color-light fw8 mb1 bb b--moon-gray">
-        <a href="https://jenkins-x.io/zh/extending/" class="js-toggle dib w-100 link mid-gray hover-accent-color-light pl2 pr2 pv2 " data-target=".extending">扩展</a>
+        <a href="https://hferentschik.github.io/jenkins-x-website/zh/extending/" class="js-toggle dib w-100 link mid-gray hover-accent-color-light pl2 pr2 pv2 " data-target=".extending">扩展</a>
 
           
         </li>
     
       
       <li class="f5 w-100 hover-bg-light-gray hover-accent-color-light fw8">
-        <a href="https://jenkins-x.io/commands/jx/" class="js-toggle dib w-100 link mid-gray hover-accent-color-light pl2 pr2 pv2 " data-target=".commands">命令行</a>
+        <a href="https://hferentschik.github.io/jenkins-x-website/commands/jx/" class="js-toggle dib w-100 link mid-gray hover-accent-color-light pl2 pr2 pv2 " data-target=".commands">命令行</a>
 
           
         </li>
@@ -638,43 +614,43 @@ var trackOutboundLink = function(id, url) {
             <ul class="faq desktopmenu animated fadeIn list pl0 bg-light-gray dn">
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/faq/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/faq/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     常见问题概览
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/faq/faq/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/faq/faq/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     FAQ
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/faq/jenkins/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/faq/jenkins/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Jenkins 相关问题
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/faq/setup/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/faq/setup/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     安装问题
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/faq/issues/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/faq/issues/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Issues
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/faq/technology/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/faq/technology/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     技术
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/faq/develop/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/faq/develop/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     开发问题
                   </a>
                 </li>
@@ -691,25 +667,25 @@ var trackOutboundLink = function(id, url) {
             <ul class="contribute desktopmenu animated fadeIn list pl0 bg-light-gray dn">
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/contribute/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/contribute/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     给 Jenkins X 项目做贡献
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/contribute/development/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/contribute/development/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     开发
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/contribute/documentation/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/contribute/documentation/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     文档
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/zh/contribute/roadmap/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/zh/contribute/roadmap/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     路线图
                   </a>
                 </li>
@@ -729,7 +705,7 @@ var trackOutboundLink = function(id, url) {
   <div class="w-100 bg-light-gray">
     <div class="mw7 pa4 center nested-lh-copy lh-copy">
       <h6 class="f4 dark-gray mb2">
-  <a href="https://jenkins-x.io/zh/developing/create-quickstart/" class="hide-child link primary-color">
+  <a href="https://hferentschik.github.io/jenkins-x-website/zh/developing/create-quickstart/" class="hide-child link primary-color">
   <span class="nl3 child"><svg class="grow" fill="" height="14px" viewBox="0 0 24 24" width="14px" xmlns="http://www.w3.org/2000/svg"><path d="M0 0h24v24H0z" fill="none"/><path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z"/></svg>
 </span>
     “快速开始”
@@ -756,7 +732,7 @@ f6 ph3 pv1 br2 dib  tc ttu mv3 bg-primary-color white hover-bg-green link
         By the <a href="https://github.com/jenkins-x/jx/contributors" class="link">Jenkins X Authors</a><br/>
       </div>
 
-      <ul class="center f6 list ma0 mv3 pa0 tc"><li class="dib mr3"><a href="https://github.com/jenkins-x/jx/issues/new" class="dim link light-gray pv2">记录问题</a></li><li class="dib mr3"><a href="https://jenkins-x.io/community" class="dim link light-gray pv2">获取帮助</a></li><li class="dib"><a href="https://jenkins-x.io/community" class="dim link light-gray pv2">讨论源码</a></li></ul>
+      <ul class="center f6 list ma0 mv3 pa0 tc"><li class="dib mr3"><a href="https://github.com/jenkins-x/jx/issues/new" class="dim link light-gray pv2">记录问题</a></li><li class="dib mr3"><a href="https://hferentschik.github.io/jenkins-x-website/community" class="dim link light-gray pv2">获取帮助</a></li><li class="dib"><a href="https://hferentschik.github.io/jenkins-x-website/community" class="dim link light-gray pv2">讨论源码</a></li></ul>
 
       <ul class="center f6 list ma0 mv4 pa0 tc">
         <li class="dib mr3"><a href="https://twitter.com/jenkinsxio" class="dim link light-gray pv2">@jenkinsxio</a>
@@ -784,19 +760,19 @@ f6 ph3 pv1 br2 dib  tc ttu mv3 bg-primary-color white hover-bg-green link
 <ul class="list hidden dib ph0 ma0 scrolling-touch tc">
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="https://jenkins-x.io/zh/documentation" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/zh/documentation" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
           文档
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="https://jenkins-x.io/zh/news" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/zh/news" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
           新闻
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="https://jenkins-x.io/zh/community" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/zh/community" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
           社区
         </a>
     </li>
@@ -822,55 +798,55 @@ f6 ph3 pv1 br2 dib  tc ttu mv3 bg-primary-color white hover-bg-green link
 <ul class="list dib ph0 ma0 scrolling-touch tc">
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="https://jenkins-x.io/zh/about/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/zh/about/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           关于 Jenkins X
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100 mb2 bb b--mid-gray">
-        <a href="https://jenkins-x.io/zh/getting-started/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           入门
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100 mb2 bb b--mid-gray">
-        <a href="https://jenkins-x.io/zh/developing/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/zh/developing/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           研发
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100 mb2 bb b--mid-gray">
-        <a href="https://jenkins-x.io/zh/demos/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/zh/demos/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           示例
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100 mb2 bb b--mid-gray">
-        <a href="https://jenkins-x.io/zh/architecture/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           架构
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100 mb2 bb b--mid-gray">
-        <a href="https://jenkins-x.io/zh/extending/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/zh/extending/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           扩展
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="https://jenkins-x.io/commands/jx/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/commands/jx/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           命令行
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="https://jenkins-x.io/zh/faq/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/zh/faq/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           常见问题
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="https://jenkins-x.io/zh/contribute/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/zh/contribute/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           贡献
         </a>
     </li>
@@ -888,7 +864,7 @@ f6 ph3 pv1 br2 dib  tc ttu mv3 bg-primary-color white hover-bg-green link
 
 </footer>
 
-    <script src="https://jenkins-x.io/dist/app.bundle.js"></script>
+    <script src="https://hferentschik.github.io/jenkins-x-website/dist/app.bundle.js"></script>
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 

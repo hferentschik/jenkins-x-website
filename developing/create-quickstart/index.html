@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8">
     
-    <link rel="preload" href="https://jenkins-x.io/files/muli-latin-200.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="preload" href="https://jenkins-x.io/files/muli-latin-400.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="preload" href="https://jenkins-x.io/files/muli-latin-800.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://hferentschik.github.io/jenkins-x-website/files/muli-latin-200.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://hferentschik.github.io/jenkins-x-website/files/muli-latin-400.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://hferentschik.github.io/jenkins-x-website/files/muli-latin-800.woff2" as="font" type="font/woff2" crossorigin>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
      
@@ -14,13 +14,13 @@
     <meta name="MobileOptimized" content="320">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-     <meta name="generator" content="Hugo 0.49" />
+     <meta name="generator" content="Hugo 0.53" />
 
       
-        <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
       
 
-    <link href='https://jenkins-x.io/dist/main.css' rel='stylesheet' type="text/css" /><script src="https://jenkins-x.io/js/chart.js"></script>
+    <link href='https://hferentschik.github.io/jenkins-x-website/dist/main.css' rel='stylesheet' type="text/css" /><script src="https://hferentschik.github.io/jenkins-x-website/js/chart.js"></script>
 <style>
   img.avatar {
     width: 32px;
@@ -30,7 +30,7 @@
 <meta property="og:title" content="Create Quickstart" />
 <meta property="og:description" content="How to create a new quickstart application and import it into Jenkins X" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://jenkins-x.io/developing/create-quickstart/" /><meta property="article:published_time" content="2017-02-01T00:00:00&#43;00:00"/>
+<meta property="og:url" content="https://hferentschik.github.io/jenkins-x-website/developing/create-quickstart/" /><meta property="article:published_time" content="2017-02-01T00:00:00&#43;00:00"/>
 <meta property="article:modified_time" content="2019-01-09T16:45:41-05:00"/>
 
 <meta itemprop="name" content="Create Quickstart">
@@ -38,54 +38,30 @@
 
 
 <meta itemprop="datePublished" content="2017-02-01T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2017-02-01T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2019-01-09T16:45:41-05:00" />
 <meta itemprop="wordCount" content="797">
 
 
 
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://jenkins-x.io/images/logo.png"/>
+<meta name="twitter:image" content="https://hferentschik.github.io/jenkins-x-website/images/logo.png"/>
 
 <meta name="twitter:title" content="Create Quickstart"/>
 <meta name="twitter:description" content="How to create a new quickstart application and import it into Jenkins X"/>
 <meta name="twitter:site" content="@jenkinsxio"/>
 
-        
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4216293-7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-4216293-7');
-
-
-
-var trackOutboundLink = function(id, url) {
-  console.log("track:", id, url)
-  gtag('event', 'click', {
-    'event_category': 'outbound',
-    'event_label': id,
-    'transport_type': 'beacon',
-    'event_callback': function(){document.location = url;}
-  });
-}
-
-</script>
-
-      
-     <link href='https://jenkins-x.io/css/build_status.css' rel='stylesheet' type="text/css" />
+     <link href='https://hferentschik.github.io/jenkins-x-website/css/build_status.css' rel='stylesheet' type="text/css" />
 
   </head>
-  <body class="ma0 sans-serif bg-primary-color-light production">
+  <body class="ma0 sans-serif bg-primary-color-light">
     
 <nav class="bg-primary-color-dark pv4 w-100" role="navigation">
 
   <div class="center flex-ns flex-wrap items-center justify-start mw9">
 
     <h1 class="dim f3 lh-solid ml0-ns mr0 mr4-l mv0 pl3 pl4-ns">
-      <a href="https://jenkins-x.io/" class="link white">
+      <a href="https://hferentschik.github.io/jenkins-x-website" class="link white">
          Jenkins X
       </a>
     </h1>
@@ -93,7 +69,7 @@ var trackOutboundLink = function(id, url) {
       
         <li class="f5 dib mr4" role="menuitem">
             
-          <a href="https://jenkins-x.io/documentation" class="dim link light-silver">
+          <a href="https://hferentschik.github.io/jenkins-x-website/documentation" class="dim link light-silver">
             Documentation
               
             
@@ -103,7 +79,7 @@ var trackOutboundLink = function(id, url) {
       
         <li class="f5 dib mr4" role="menuitem">
             
-          <a href="https://jenkins-x.io/news/" class="dim link light-silver">
+          <a href="https://hferentschik.github.io/jenkins-x-website/news/" class="dim link light-silver">
             News
               
             
@@ -113,7 +89,7 @@ var trackOutboundLink = function(id, url) {
       
         <li class="f5 dib mr4" role="menuitem">
             
-          <a href="https://jenkins-x.io/community" class="dim link light-silver">
+          <a href="https://hferentschik.github.io/jenkins-x-website/community" class="dim link light-silver">
             Community
               
             
@@ -153,7 +129,7 @@ var trackOutboundLink = function(id, url) {
       
         <li class="f5 dib mr4" role="menuitem">
             
-          <a href="https://jenkins-x.io/sponsors/" class="dim link light-silver">
+          <a href="https://hferentschik.github.io/jenkins-x-website/sponsors/" class="dim link light-silver">
             Sponsors
               
             
@@ -163,7 +139,7 @@ var trackOutboundLink = function(id, url) {
       
         <li class="f5 dib mr4" role="menuitem">
             
-          <a href="https://jenkins-x.io/security/" class="dim link light-silver">
+          <a href="https://hferentschik.github.io/jenkins-x-website/security/" class="dim link light-silver">
             Security
               
             
@@ -189,13 +165,13 @@ var trackOutboundLink = function(id, url) {
   <li class="f5 dib mr4" role="menuitem">
     
     
-    <a href="https://jenkins-x.io/developing/create-quickstart/" class="dim gray">English</a>
+    <a href="https://hferentschik.github.io/jenkins-x-website/developing/create-quickstart/" class="dim gray">English</a>
   </li>
 
   <li class="f5 dib mr4" role="menuitem">
     
     
-    <a href="https://jenkins-x.io/zh/developing/create-quickstart/" class="dim gray">中文</a>
+    <a href="https://hferentschik.github.io/jenkins-x-website/zh/developing/create-quickstart/" class="dim gray">中文</a>
   </li>
 
 </ul></div>
@@ -241,7 +217,7 @@ var trackOutboundLink = function(id, url) {
 
 	<div date-pref>
 		
-			<a href="https://jenkins-x.io/developing/build-status/" class="dib f6 pl1 hover-bg-light-gray br-100" title="Build Status ">
+			<a href="https://hferentschik.github.io/jenkins-x-website/developing/build-status/" class="dib f6 pl1 hover-bg-light-gray br-100" title="Build Status ">
 				<svg class="fill-current" height="30px" viewBox="0 0 24 24" width="30px" xmlns="http://www.w3.org/2000/svg">
     <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/>
     <path d="M0 0h24v24H0z" fill="none"/>
@@ -251,7 +227,7 @@ var trackOutboundLink = function(id, url) {
 		
 
 		
-			<a href="https://jenkins-x.io/developing/create-camel/" class="dib f6 pr1 hover-bg-light-gray br-100" title="Create Camel">
+			<a href="https://hferentschik.github.io/jenkins-x-website/developing/create-camel/" class="dib f6 pr1 hover-bg-light-gray br-100" title="Create Camel">
 			<svg class="fill-current" height="30px" viewBox="0 0 24 24" width="30px" xmlns="http://www.w3.org/2000/svg">
     <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/>
     <path d="M0 0h24v24H0z" fill="none"/>
@@ -271,7 +247,7 @@ var trackOutboundLink = function(id, url) {
           <header class="flex-none w-100">
   
     
-      <a href="https://jenkins-x.io/categories/fundamentals" class="f6 fw8 mb0 link mid-gray dim mr3">
+      <a href="https://hferentschik.github.io/jenkins-x-website/categories/fundamentals" class="f6 fw8 mb0 link mid-gray dim mr3">
         FUNDAMENTALS
       </a>
     
@@ -297,7 +273,7 @@ var trackOutboundLink = function(id, url) {
 
 <p>Quickstarts are pre-made applications you can start a project from, instead of starting from scratch.</p>
 
-<p>You can create new applications from our list of curated Quickstart applications via the <a href="https://jenkins-x.io/commands/jx_create_quickstart">jx create quickstart</a> command.</p>
+<p>You can create new applications from our list of curated Quickstart applications via the <a href="https://hferentschik.github.io/jenkins-x-website/commands/jx_create_quickstart">jx create quickstart</a> command.</p>
 <div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">$ jx create quickstart</code></pre></div>
 <p>You are then prompted for a list of quickstarts to choose from.</p>
 
@@ -332,11 +308,11 @@ var trackOutboundLink = function(id, url) {
 
 <p>When you create a quickstart we use the <a href="https://github.com/jenkins-x-buildpacks/jenkins-x-kubernetes">Jenkins X build packs</a> to match the right pack for the project using the source code language kinds to pick the most suitable match.</p>
 
-<p>When you use <a href="https://jenkins-x.io/getting-started/create-cluster/">jx create</a>, <a href="http://localhost:1313/getting-started/install-on-cluster/">jx install</a> or <a href="https://jenkins-x.io/commands/jx_init/">jx init</a> the <a href="https://github.com/jenkins-x-buildpacks/jenkins-x-kubernetes">Jenkins X build packs</a> are cloned into your <code>~/.jx/draft/packs</code> folder.</p>
+<p>When you use <a href="https://hferentschik.github.io/jenkins-x-website/getting-started/create-cluster/">jx create</a>, <a href="http://localhost:1313/getting-started/install-on-cluster/">jx install</a> or <a href="https://hferentschik.github.io/jenkins-x-website/commands/jx_init/">jx init</a> the <a href="https://github.com/jenkins-x-buildpacks/jenkins-x-kubernetes">Jenkins X build packs</a> are cloned into your <code>~/.jx/draft/packs</code> folder.</p>
 
 <p>e.g. you can view all the languages supported via build packs on your machine via:</p>
 <div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">ls -al ~/.jx/draft/packs/github.com/jenkins-x/draft-packs/packs</code></pre></div>
-<p>Then when you create a quickstart, use <a href="https://jenkins-x.io/developing/create-spring/">jx create spring</a> or <a href="developing/import/">jx import</a> then the <a href="https://github.com/jenkins-x-buildpacks/jenkins-x-kubernetes">Jenkins X build packs</a> are used to:</p>
+<p>Then when you create a quickstart, use <a href="https://hferentschik.github.io/jenkins-x-website/developing/create-spring/">jx create spring</a> or <a href="developing/import/">jx import</a> then the <a href="https://github.com/jenkins-x-buildpacks/jenkins-x-kubernetes">Jenkins X build packs</a> are used to:</p>
 
 <ul>
 <li>find the right language pack. e.g. here are the current <a href="https://github.com/jenkins-x-buildpacks/jenkins-x-kubernetes/tree/master/packs">list of language packs</a>.</li>
@@ -345,7 +321,7 @@ var trackOutboundLink = function(id, url) {
 <ul>
 <li><code>Dockerfile</code> to package the application as a docker image</li>
 <li><code>Jenkinsfile</code> to implement the CI / CD pipelines using declarative pipeline as code</li>
-<li>Helm Charts to deploy the application on Kubernetes and to implement <a href="https://jenkins-x.io/about/features/#preview-environments">Preview Environments</a>
+<li>Helm Charts to deploy the application on Kubernetes and to implement <a href="https://hferentschik.github.io/jenkins-x-website/about/features/#preview-environments">Preview Environments</a>
 <br /></li>
 </ul></li>
 </ul>
@@ -354,7 +330,7 @@ var trackOutboundLink = function(id, url) {
 
 <p>If you would like to submit a new Quickstart to Jenkins X please just <a href="https://github.com/jenkins-x/jx/issues/new?labels=quickstart&amp;title=Add%20quickstart&amp;body=Please%20add%20this%20github%20quickstart:">raise an issue</a> with the URL in GitHub of your quickstart and we can fork it it into the <a href="https://github.com/jenkins-x-quickstarts">quickstart organisation</a> so it appears in the <code>jx create quickstart</code> menu.</p>
 
-<p>Or if you are part of an open source project and wish to curate your own set of quickstarts for your project; you can <a href="https://github.com/jenkins-x/jx/issues/new?labels=quickstart&amp;title=Add%20quickstart&amp;body=Please%20add%20this%20github%20quickstart:">raise an issue</a> giving us details of the github organisation where the quickstarts live and we&rsquo;ll add that in as a default organisation to include in the <a href="https://jenkins-x.io/commands/jx_create_quickstart">jx create quickstart</a> command. Its easier for the <a href="https://jenkins-x.io/commands/jx_create_quickstart">jx create quickstart</a> if you maintain the quickstarts in a separate quickstart organisation on github.</p>
+<p>Or if you are part of an open source project and wish to curate your own set of quickstarts for your project; you can <a href="https://github.com/jenkins-x/jx/issues/new?labels=quickstart&amp;title=Add%20quickstart&amp;body=Please%20add%20this%20github%20quickstart:">raise an issue</a> giving us details of the github organisation where the quickstarts live and we&rsquo;ll add that in as a default organisation to include in the <a href="https://hferentschik.github.io/jenkins-x-website/commands/jx_create_quickstart">jx create quickstart</a> command. Its easier for the <a href="https://hferentschik.github.io/jenkins-x-website/commands/jx_create_quickstart">jx create quickstart</a> if you maintain the quickstarts in a separate quickstart organisation on github.</p>
 
 <p>Until we do that you can still use your own Quickstarts in the <code>jx create quickstart</code> command via the <code>-g</code> or <code>--organisations</code> command line argument. e.g.</p>
 <div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">$ jx create quickstart  -l go --organisations my-github-org</code></pre></div>
@@ -362,19 +338,19 @@ var trackOutboundLink = function(id, url) {
 
 <h2 id="customising-your-teams-quickstarts">Customising your teams quickstarts</h2>
 
-<p>You can configure at a team level the quickstarts which are presented to you in the <code>jx create quickstart</code> command. These settings are stored in the <a href="https://jenkins-x.io/architecture/custom-resources/">Environment Custom Resource</a> in Kubernetes.</p>
+<p>You can configure at a team level the quickstarts which are presented to you in the <code>jx create quickstart</code> command. These settings are stored in the <a href="https://hferentschik.github.io/jenkins-x-website/architecture/custom-resources/">Environment Custom Resource</a> in Kubernetes.</p>
 
-<p>To add the location of a set of quickstarts you can use the <a href="https://jenkins-x.io/commands/jx_create_quickstartlocation/">jx create quickstartlocation</a> command.</p>
+<p>To add the location of a set of quickstarts you can use the <a href="https://hferentschik.github.io/jenkins-x-website/commands/jx_create_quickstartlocation/">jx create quickstartlocation</a> command.</p>
 <div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">$ jx create quickstartlocation --url https://mygit.server.com --owner my-quickstarts</code></pre></div>
 <p>If you omit the <code>--url</code> argument the command will assume its a <a href="https://github.com/">GitHub</a> repository. Note that both public and private repositories are supported.</p>
 
-<p>This means you can have your own shared private quickstarts to reuse within your organisation. Of course we&rsquo;d obviously prefer you to <a href="https://github.com/jenkins-x/jx/issues/new?labels=quickstart&amp;title=Add%20quickstart&amp;body=Please%20add%20this%20github%20quickstart:">share your quickstarts with us via open source</a> then we can include your quickstart with the entire <a href="https://jenkins-x.io/community">community</a> - but there may be times you want to curate your own internal quickstarts using proprietary software.</p>
+<p>This means you can have your own shared private quickstarts to reuse within your organisation. Of course we&rsquo;d obviously prefer you to <a href="https://github.com/jenkins-x/jx/issues/new?labels=quickstart&amp;title=Add%20quickstart&amp;body=Please%20add%20this%20github%20quickstart:">share your quickstarts with us via open source</a> then we can include your quickstart with the entire <a href="https://hferentschik.github.io/jenkins-x-website/community">community</a> - but there may be times you want to curate your own internal quickstarts using proprietary software.</p>
 
 <p>You can also specify <code>--includes</code> or <code>--excludes</code> patterns to filter the names of the repositories where <code>*</code> matches anything and <code>foo*</code> matches anything starting with <code>foo</code>. e.g. you could just include the languages and technologies your organisation supports and exclude the rest etc.</p>
 
 <p>Also note that you can use the alias of <code>qsloc</code> instead of <code>quickstartlocation</code> if you like shorter aliases ;)</p>
 
-<p>You can then view the current quickstart locations for your team via the <a href="https://jenkins-x.io/commands/jx_get_quickstartlocations/">jx get quickstartlocations</a> command:</p>
+<p>You can then view the current quickstart locations for your team via the <a href="https://hferentschik.github.io/jenkins-x-website/commands/jx_get_quickstartlocations/">jx get quickstartlocations</a> command:</p>
 <div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">$ jx get quickstartlocations</code></pre></div>
 <p>Or using an abbreviation</p>
 <div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">$ jx get qsloc</code></pre></div>
@@ -400,43 +376,43 @@ var trackOutboundLink = function(id, url) {
             <ul class="about desktopmenu animated fadeIn list pl0 bg-light-gray dn">
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/about/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/about/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Overview
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/about/features/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/about/features/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Features
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/about/accelerate/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/about/accelerate/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Accelerate
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/about/concepts/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/about/concepts/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Concepts
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/about/decisions/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/about/decisions/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Decisions
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/about/license/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/about/license/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     License
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/about/status/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/about/status/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Status
                   </a>
                 </li>
@@ -453,55 +429,55 @@ var trackOutboundLink = function(id, url) {
             <ul class="getting-started desktopmenu animated fadeIn list pl0 bg-light-gray dn">
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/getting-started/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/getting-started/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Get Started Overview
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/getting-started/tutorials/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/getting-started/tutorials/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Tutorials
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/getting-started/install/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/getting-started/install/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Get jx
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/getting-started/create-cluster/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/getting-started/create-cluster/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Create new Cluster
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/getting-started/install-on-cluster/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/getting-started/install-on-cluster/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Install on Kubernetes
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/getting-started/install-on-cluster-what-happens/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/getting-started/install-on-cluster-what-happens/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     What happens during installation
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/getting-started/next/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/getting-started/next/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     What&#39;s next?
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/getting-started/config/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/getting-started/config/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Configuration
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/getting-started/create-custom-builder/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/getting-started/create-custom-builder/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Create custom Builder
                   </a>
                 </li>
@@ -518,91 +494,91 @@ var trackOutboundLink = function(id, url) {
             <ul class="developing desktopmenu animated fadeIn list pl0 bg-light-gray db">
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/developing/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/developing/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Developing
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/developing/create-spring/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/developing/create-spring/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Create Spring Boot
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/developing/build-status/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/developing/build-status/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Build Status
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/developing/create-quickstart/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 primary-color ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/developing/create-quickstart/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 primary-color ">
                     Create Quickstart
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/developing/create-camel/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/developing/create-camel/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Create Camel
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/developing/browsing/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/developing/browsing/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Browsing
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/developing/import/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/developing/import/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Import
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/developing/kube-context/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/developing/kube-context/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Kubernetes Context
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/developing/promote/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/developing/promote/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Promote
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/developing/preview/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/developing/preview/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Preview Environments
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/developing/ide/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/developing/ide/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     IDE
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/developing/issues/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/developing/issues/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Issues
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/developing/git/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/developing/git/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Git Servers
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/developing/devpods/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/developing/devpods/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Dev Pods
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/developing/security-features/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/developing/security-features/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Security Features
                   </a>
                 </li>
@@ -619,55 +595,55 @@ var trackOutboundLink = function(id, url) {
             <ul class="demos desktopmenu animated fadeIn list pl0 bg-light-gray dn">
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/demos/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/demos/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Demos
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/articles/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/articles/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Articles
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/talks/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/talks/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Talks and Conferences
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/demos/create_cluster/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/demos/create_cluster/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Create Cluster
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/demos/create_cluster_gke/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/demos/create_cluster_gke/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Create Cluster GKE
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/demos/create_spring/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/demos/create_spring/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Create Spring
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/demos/image-security/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/demos/image-security/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Docker Image CVE Scanning
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/demos/kubecon-2018/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/demos/kubecon-2018/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     KubeCon 2018 Demo
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/demos/devoxx-uk-2018/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/demos/devoxx-uk-2018/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     DevOxx UK 2018 Demo
                   </a>
                 </li>
@@ -684,79 +660,79 @@ var trackOutboundLink = function(id, url) {
             <ul class="architecture desktopmenu animated fadeIn list pl0 bg-light-gray dn">
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/architecture/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/architecture/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Architecture
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/architecture/diagram/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/architecture/diagram/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Diagram
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/architecture/components/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/architecture/components/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Components
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/architecture/source/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/architecture/source/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Source
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/architecture/custom-resources/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/architecture/custom-resources/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Custom Resources
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/architecture/build-packs/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/architecture/build-packs/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Build Packs
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/architecture/cloud-native-jenkins/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/architecture/cloud-native-jenkins/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Cloud Native Jenkins
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/architecture/prow/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/architecture/prow/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Prow
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/architecture/pod-templates/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/architecture/pod-templates/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Pod Templates
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/architecture/storage/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/architecture/storage/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Storage
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/architecture/docker-registry/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/architecture/docker-registry/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Docker Registry
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/architecture/rbac/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/architecture/rbac/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     RBAC
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/architecture/helm3/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/architecture/helm3/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Helm 3
                   </a>
                 </li>
@@ -773,7 +749,7 @@ var trackOutboundLink = function(id, url) {
             <ul class="apps desktopmenu animated fadeIn list pl0 bg-light-gray dn">
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/apps/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/apps/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Apps Framework
                   </a>
                 </li>
@@ -784,7 +760,7 @@ var trackOutboundLink = function(id, url) {
     
       
       <li class="f5 w-100 hover-bg-light-gray hover-accent-color-light fw8">
-        <a href="https://jenkins-x.io/commands/jx/" class="js-toggle dib w-100 link mid-gray hover-accent-color-light pl2 pr2 pv2 " data-target=".commands">CLI</a>
+        <a href="https://hferentschik.github.io/jenkins-x-website/commands/jx/" class="js-toggle dib w-100 link mid-gray hover-accent-color-light pl2 pr2 pv2 " data-target=".commands">CLI</a>
 
           
         </li>
@@ -797,37 +773,37 @@ var trackOutboundLink = function(id, url) {
             <ul class="faq desktopmenu animated fadeIn list pl0 bg-light-gray dn">
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/faq/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/faq/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     FAQ Overview
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/faq/faq/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/faq/faq/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     General Questions
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/faq/setup/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/faq/setup/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Setup Questions
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/faq/issues/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/faq/issues/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Common Problems
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/faq/technology/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/faq/technology/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Technology Questions
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/faq/develop/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/faq/develop/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Development Questions
                   </a>
                 </li>
@@ -844,31 +820,31 @@ var trackOutboundLink = function(id, url) {
             <ul class="contribute desktopmenu animated fadeIn list pl0 bg-light-gray dn">
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/contribute/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/contribute/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Contribute to Jenkins X
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/contribute/development/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/contribute/development/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Development
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/contribute/documentation/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/contribute/documentation/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Documentation
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/contribute/roadmap/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/contribute/roadmap/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Planned Features
                   </a>
                 </li>
               
                 <li  class="f6 fw4">
-                  <a href="https://jenkins-x.io/contribute/triage/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+                  <a href="https://hferentschik.github.io/jenkins-x-website/contribute/triage/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
                     Triaging issues
                   </a>
                 </li>
@@ -888,7 +864,7 @@ var trackOutboundLink = function(id, url) {
   <div class="w-100 bg-light-gray">
     <div class="mw7 pa4 center nested-lh-copy lh-copy">
       <h6 class="f4 dark-gray mb2">
-  <a href="https://jenkins-x.io/developing/create-quickstart/" class="hide-child link primary-color">
+  <a href="https://hferentschik.github.io/jenkins-x-website/developing/create-quickstart/" class="hide-child link primary-color">
   <span class="nl3 child"><svg class="grow" fill="" height="14px" viewBox="0 0 24 24" width="14px" xmlns="http://www.w3.org/2000/svg"><path d="M0 0h24v24H0z" fill="none"/><path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z"/></svg>
 </span>
     “Create Quickstart”
@@ -915,7 +891,7 @@ f6 ph3 pv1 br2 dib  tc ttu mv3 bg-primary-color white hover-bg-green link
         By the <a href="https://github.com/jenkins-x/jx/contributors" class="link">Jenkins X Authors</a><br/>
       </div>
 
-      <ul class="center f6 list ma0 mv3 pa0 tc"><li class="dib mr3"><a href="https://github.com/jenkins-x/jx/issues/new" class="dim link light-gray pv2">File an Issue</a></li><li class="dib mr3"><a href="https://jenkins-x.io/community" class="dim link light-gray pv2">Get Help</a></li><li class="dib"><a href="https://jenkins-x.io/community" class="dim link light-gray pv2">Discuss Source Code</a></li></ul>
+      <ul class="center f6 list ma0 mv3 pa0 tc"><li class="dib mr3"><a href="https://github.com/jenkins-x/jx/issues/new" class="dim link light-gray pv2">File an Issue</a></li><li class="dib mr3"><a href="https://hferentschik.github.io/jenkins-x-website/community" class="dim link light-gray pv2">Get Help</a></li><li class="dib"><a href="https://hferentschik.github.io/jenkins-x-website/community" class="dim link light-gray pv2">Discuss Source Code</a></li></ul>
 
       <ul class="center f6 list ma0 mv4 pa0 tc">
         <li class="dib mr3"><a href="https://twitter.com/jenkinsxio" class="dim link light-gray pv2">@jenkinsxio</a>
@@ -943,19 +919,19 @@ f6 ph3 pv1 br2 dib  tc ttu mv3 bg-primary-color white hover-bg-green link
 <ul class="list hidden dib ph0 ma0 scrolling-touch tc">
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="https://jenkins-x.io/documentation" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/documentation" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
           Documentation
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="https://jenkins-x.io/news/" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/news/" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
           News
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="https://jenkins-x.io/community" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/community" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
           Community
         </a>
     </li>
@@ -973,13 +949,13 @@ f6 ph3 pv1 br2 dib  tc ttu mv3 bg-primary-color white hover-bg-green link
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="https://jenkins-x.io/sponsors/" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/sponsors/" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
           Sponsors
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="https://jenkins-x.io/security/" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/security/" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
           Security
         </a>
     </li>
@@ -993,55 +969,55 @@ f6 ph3 pv1 br2 dib  tc ttu mv3 bg-primary-color white hover-bg-green link
 <ul class="list dib ph0 ma0 scrolling-touch tc">
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="https://jenkins-x.io/about/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/about/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           About Jenkins X
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100 mb2 bb b--mid-gray">
-        <a href="https://jenkins-x.io/getting-started/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/getting-started/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           Getting Started
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100 mb2 bb b--mid-gray">
-        <a href="https://jenkins-x.io/developing/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/developing/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           Developing
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100 mb2 bb b--mid-gray">
-        <a href="https://jenkins-x.io/demos/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/demos/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           Demos
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100 mb2 bb b--mid-gray">
-        <a href="https://jenkins-x.io/architecture/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/architecture/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           Architecture
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100 mb2 bb b--mid-gray">
-        <a href="https://jenkins-x.io/apps/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/apps/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           Extending
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="https://jenkins-x.io/commands/jx/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/commands/jx/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           CLI
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="https://jenkins-x.io/faq/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/faq/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           FAQ
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="https://jenkins-x.io/contribute/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="https://hferentschik.github.io/jenkins-x-website/contribute/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           Contribute
         </a>
     </li>
@@ -1059,7 +1035,7 @@ f6 ph3 pv1 br2 dib  tc ttu mv3 bg-primary-color white hover-bg-green link
 
 </footer>
 
-    <script src="https://jenkins-x.io/dist/app.bundle.js"></script>
+    <script src="https://hferentschik.github.io/jenkins-x-website/dist/app.bundle.js"></script>
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 

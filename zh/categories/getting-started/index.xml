@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Getting Started on Jenkins X</title>
-    <link>https://jenkins-x.io/zh/categories/getting-started/</link>
+    <link>https://hferentschik.github.io/jenkins-x-website/zh/categories/getting-started/</link>
     <description>Recent content in Getting Started on Jenkins X</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 21 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jenkins-x.io/zh/categories/getting-started/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hferentschik.github.io/jenkins-x-website/zh/categories/getting-started/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>入门</title>
-      <link>https://jenkins-x.io/zh/getting-started/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/</link>
       <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/getting-started/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/</guid>
       <description>首先，需要在你本地的机器上安装 jx 命令行工具 。
 你可以使用 jx 命令 来创建一个新的 kubernetes 集群 ，然后 Jenkins X 就会自动安装。
 或者，如果你已经有了一个 kubernetes 集群，那么可以在你的 kubernetes 集群上安装 Jenkins X。</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>获取 jx</title>
-      <link>https://jenkins-x.io/zh/getting-started/install/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/install/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/getting-started/install/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/install/</guid>
       <description>根据你的操作系统选择最适合的指令：
 macOS 在 Mac 上你可以使用 brew：
 brew tap jenkins-x/jx brew install jx  或者，如果您尚未安装 brew ，并且喜欢手动安装的话，请执行如下指令安装:
@@ -40,10 +40,10 @@ jx help create  你也可以浏览 jx 命令参考文档</description>
     
     <item>
       <title>创建新集群</title>
-      <link>https://jenkins-x.io/zh/getting-started/create-cluster/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/create-cluster/</link>
       <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/getting-started/create-cluster/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/create-cluster/</guid>
       <description>通过已经安装的 Jenkins X 创建一个新的集群，使用命令 jx create cluster 。
 如下所示，支持很多不同的公有云提供商。
 为了最好的入门体验，我们目前推荐使用 Google Container Engine (GKE)。如果你没有谷歌云账号的话，谷歌云平台提供三百美元的额度。查看 https://console.cloud.google.com/freetrial
@@ -58,10 +58,10 @@ jx create cluster aws  这会通过你的亚马逊账户，使用命令 kops 创
     
     <item>
       <title>创建自定义 Builder</title>
-      <link>https://jenkins-x.io/zh/getting-started/create-custom-builder/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/create-custom-builder/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/getting-started/create-custom-builder/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/create-custom-builder/</guid>
       <description>在 Jenkins X 中，可以创建字段自定义的 Builder （也就是 POD templates）或覆盖已有的。你只需要基于 builder-base 或它的 slim 版本的镜像。
 从零创建一个自定义 Builder Builder 镜像 首先，您需要为 Builder 创建一个 docker 镜像。从 Dockerfile 开始的一个实例可能类似于：
 FROM jenkinsxio/builder-base:latest # Install your tools and libraries RUN yum install -y gcc openssl-devel CMD [&amp;quot;gcc&amp;quot;]  现在，您可以构建并发布这个镜像到您的 registry：
@@ -71,10 +71,10 @@ jx import --url &amp;lt;REPOSITORY_URL&amp;gt;  之后，您每次推送一个�
     
     <item>
       <title>在 Kubernetes 上安装</title>
-      <link>https://jenkins-x.io/zh/getting-started/install-on-cluster/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/install-on-cluster/</link>
       <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/getting-started/install-on-cluster/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/install-on-cluster/</guid>
       <description>Jenkins X 可以在 Kubernetes 1.8 以及更高版本上安装。需要的依赖有：
  RBAC 是可用的 启用 docker 私有仓库。这样的话，流水线可以在 Kubernetes 集群中使用 docker 仓库（通常不是公共的因此不支持 https）。后续，你可以修改你的流水线来使用其他仓库。  通过 kops 启用私有仓库 注意，如果你是在 AWS 环境中，你可能会想使用 jx create aws 命令来帮你自动化完成所有步骤！
 如果你是通过 kops 创建的 kubernetes 集群，那么你可以这么做：
@@ -88,10 +88,10 @@ kops update cluster --yes kops rolling-update cluster --yes  你现在可以继�
     
     <item>
       <title>安装过程中发生了什么</title>
-      <link>https://jenkins-x.io/zh/getting-started/install-on-cluster-what-happens/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/install-on-cluster-what-happens/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/getting-started/install-on-cluster-what-happens/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/install-on-cluster-what-happens/</guid>
       <description>Jenkins X 命令行在安装 Jenkins X 平台时会做如下事情：
 安装二进制客户端来管理你的集群  如果您运行在 Mac OS X 上，Jenkins X 会使用 Homebrew 来安装不同的命令行。不存在就会安装。
   安装 kubectl kubectl 是 Kubernetes 的命令行。它允许您和您的 Kubernetes 集群通过 API server 交互。
@@ -102,10 +102,10 @@ kops update cluster --yes kops rolling-update cluster --yes  你现在可以继�
     
     <item>
       <title>下一步？</title>
-      <link>https://jenkins-x.io/zh/getting-started/next/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/next/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/getting-started/next/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/next/</guid>
       <description>好的，现在你已经 安装了 jx 命令 ，并完成了下面的步骤：
  通过 Jenkins X 创建 Kubernetes 集群 在已有的 kubernetes 集群上安装 Jenkins X  那么，下一步呢？
 在 研发 章节中可能会有你想要尝试的内容，例如：
@@ -114,10 +114,10 @@ kops update cluster --yes kops rolling-update cluster --yes  你现在可以继�
     
     <item>
       <title>配置</title>
-      <link>https://jenkins-x.io/zh/getting-started/config/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/config/</link>
       <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/getting-started/config/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/config/</guid>
       <description>Jenkins X 应该为你的云服务商提供默认可用的配置。例如：如果你使用 AWS 或 EKS，Jenkins X 自动地使用 ECR。
 然而，你可以修改 Jenkins X 使用的 helm charts 的配置。
 要做到这一点，你需要在运行命令 jx create cluster 或 jx install 的目录下创建一个文件 myvalues.yaml 。

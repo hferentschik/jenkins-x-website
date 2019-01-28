@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>架构 on Jenkins X</title>
-    <link>https://jenkins-x.io/zh/architecture/</link>
+    <link>https://hferentschik.github.io/jenkins-x-website/zh/architecture/</link>
     <description>Recent content in 架构 on Jenkins X</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sun, 27 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jenkins-x.io/zh/architecture/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>组件</title>
-      <link>https://jenkins-x.io/zh/architecture/components/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/architecture/components/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/architecture/components/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/architecture/components/</guid>
       <description>Jenkins X 安装的包括：
  每个团队一个开发环境，也就是 kubernetes 命名空间 零或多个其它 永久环境  为每个团队获取各自开箱即用的 Staging 和 生产 环境 每个团队可以按照需要有很多环境，并依据习惯命名  可选的 预览环境  通常，每个环境会关联对应不同的 kubernetes 命名空间 ，以确保环境之间干净隔离。
 尽管从技术上讲，两个团队可以共享同样的基础命名空间，比如 Staging，尽管我们建议分开以保持简单——不然的话，在同一个 git 库中配置相同的命名空间可能会发生冲突；例如：服务资源名称或者 DNS 会冲突。如果你希望两个团队共享基础微服务，使用 服务链接 在一个命名空间中连接另外一个会比较简单，这样它们可以通过本地 DNS 以本地服务的形式出现。
@@ -28,10 +28,10 @@ Jenkins X 的配置把这些服务连接起来，就可以直接工作了。这�
     
     <item>
       <title>自定义资源</title>
-      <link>https://jenkins-x.io/zh/architecture/custom-resources/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/architecture/custom-resources/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/architecture/custom-resources/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/architecture/custom-resources/</guid>
       <description>Kubernetes 提供了一个叫做自定义资源的扩展机制，它允许微服务扩展 Kubernetes 平台来解决更高级的问题。
 因此，在 Jenkins X 中定义了若干个自定义资源来扩展 Kubernetes 支持 CI/CD：
 环境 Jenkins X 原生地支持环境，允许为你们团队定义环境，并通过 jx get environments 查询：
@@ -46,10 +46,10 @@ kubectl edit env staging 尽管，你使用命令 jx edit environment 会更容�
     
     <item>
       <title>构建打包</title>
-      <link>https://jenkins-x.io/zh/architecture/build-packs/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/architecture/build-packs/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/architecture/build-packs/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/architecture/build-packs/</guid>
       <description>我们使用 draft 风格为不同的语言构建打包 ，我们通过导入或者创建他们，运行时和构建工具添加必要的配置文件，因此我们可以在 Kubernetes 中构建和部署他们。
 如果由于工程没有被创建或导入而不存在的话，构建包会默认使用下面的文件：
  Dockerfile 把代码构建为不可变的 docker 镜像，准备在 Kubernetes 中运行 Jenkinsfile 为应用使用申明式 Jenkins 流水线定义 CI/CD 步骤 helm chart 在文件夹 charts 中生成可以在 Kubernets 中运行的 Kubernetes 资源 在 charts/preview 文件夹中的 preview chart 定义了基于 Pull Request 部署一个预览环境的所有依赖  默认的构建包在 https://github.com/jenkins-x-buildpacks/jenkins-x-kubernetes，每个语言或者构建工具在一个文件夹中。
@@ -63,10 +63,10 @@ jx 命令行克隆构建包到你的文件夹 .~/.jx/draft/packs/ ，并在你�
     
     <item>
       <title>Pod 模板</title>
-      <link>https://jenkins-x.io/zh/architecture/pod-templates/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/architecture/pod-templates/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/architecture/pod-templates/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/architecture/pod-templates/</guid>
       <description>我们使用申明式（declarative）Jenkins 流水线实现 CI/CD ，每个应用或者环境的 git 库源码中有 Jenkinsfile。
 我们使用 Jenkins 的 kubernetes 插件，使得在 Kubernetes 中为每次构建启动一个新的 pod —— 感谢 Kubernetes 给了我们一个用于运行流水线的伸缩的代理池。
 Kubernetes 插件使用 pod templates 定义用于运行 CI/CD 流水线的 pod，包括：
@@ -77,10 +77,10 @@ Kubernetes 插件使用 pod templates 定义用于运行 CI/CD 流水线的 pod�
     
     <item>
       <title>Docker Registry</title>
-      <link>https://jenkins-x.io/zh/architecture/docker-registry/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/zh/architecture/docker-registry/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/zh/architecture/docker-registry/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/zh/architecture/docker-registry/</guid>
       <description>为了能够创建和发布 docker 镜像，我们需要使用 Docker Registry。
 默认，Jenkins X 会在系统命名空间中带一个 Docker Registry，以及 Jenkins 和 Nexus。当 Docker Registry 运行在你的 Kubernetes 集群中，它会在集群内部使用，它很难通过带有自签名证书的 HTTPS 暴露 —— 因此，在你的 Kubernetes 集群服务中，我们默认使用 insecure 的 Docker Registry。
 使用不同的 Docker Registry 如果你使用公有云的话，可能希望利用你的云服务商的 Docker Registry；或者复用你已有的 Docker Registry。

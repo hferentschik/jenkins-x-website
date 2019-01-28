@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Jenkins X on Jenkins X</title>
-    <link>https://jenkins-x.io/about/</link>
+    <link>https://hferentschik.github.io/jenkins-x-website/about/</link>
     <description>Recent content in About Jenkins X on Jenkins X</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jenkins-x.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hferentschik.github.io/jenkins-x-website/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Features</title>
-      <link>https://jenkins-x.io/about/features/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/about/features/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/about/features/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/about/features/</guid>
       <description>Command Line Jenkins X comes with a handy jx command line tool to easily:
  install Jenkins X inside your existing kubernetes cluster create a new kubernetes cluster and install Jenkins X into it import projects into Jenkins X and their Continuous Delivery pipelines setup create new Spring Boot applications which get imported into Jenkins X and their Continuous Delivery pipelines setup  Pipelines Rather than having to have deep knowledge of the internals of Jenkins Pipeline, Jenkins X will default awesome pipelines for your projects that implements fully CI and CD using DevOps best practices</description>
     </item>
     
     <item>
       <title>Accelerate</title>
-      <link>https://jenkins-x.io/about/accelerate/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/about/accelerate/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/about/accelerate/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/about/accelerate/</guid>
       <description>Jenkins X is a reimagined CI/CD implementation for the Cloud which is heavily influence by the State of DevOps reports and more recently the Accelerate book from Nicole Forsgren, Jez Humble and Gene Kim.
 Years of gathering data from real world teams and organisations which has been analyzed by inspiring thought leaders and data scientists from the DevOps world. The Accelerate book recommends a number of capabilities that Jenkins X is implementing so users gain the scientifically proven benefits, out of the box.</description>
     </item>
     
     <item>
       <title>Concepts</title>
-      <link>https://jenkins-x.io/about/concepts/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/about/concepts/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/about/concepts/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/about/concepts/</guid>
       <description>Jenkins X is designed to make it simple for developers to work to DevOps principles and best practices. The approaches taken are based on the comprehensive research done for the book ACCELERATE: Building and Scaling High Performing Technology Organsiations. You can read why we use Accelerate for the principals behind Jenkins X.
 Principles &amp;ldquo;DevOps is a set of practices intended to reduce the time between committing a change to a system and the change being placed into normal production, while ensuring high quality.</description>
     </item>
     
     <item>
       <title>Decisions</title>
-      <link>https://jenkins-x.io/about/decisions/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/about/decisions/</link>
       <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/about/decisions/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/about/decisions/</guid>
       <description>Decisions Jenkins X is an opinionated developer experience, here we will explain the background and decisions we have taken to help explain the reasons for these opinions. You may also want to take a look at the Accelerate page for details on how Jenkins X implements the capabilities recommended by
 Kubernetes First is why Jenkins X is purely focused on Kubernetes and is only intended to run on it.</description>
     </item>
     
     <item>
       <title>Apache License</title>
-      <link>https://jenkins-x.io/about/license/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/about/license/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/about/license/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/about/license/</guid>
       <description>Jenkins X is released under the Apache 2.0 license.
 Version 2.0, January 2004 http://www.apache.org/licenses/LICENSE-2.0
 Terms and Conditions for use, reproduction, and distribution
@@ -67,10 +67,10 @@ Terms and Conditions for use, reproduction, and distribution
     
     <item>
       <title>Status</title>
-      <link>https://jenkins-x.io/about/status/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/about/status/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/about/status/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/about/status/</guid>
       <description>This page describes any specific manual work arounds you may require above and beyond changes described in the News section or using jx upgrade to upgrade the CLI or platform
 8 Jan 2019: Prow and Knative Build upgrade There are three critical bugs with the prow based Jenkins X https://github.com/jenkins-x/jx/issues/2539 https://github.com/jenkins-x/jx/issues/2561 https://github.com/jenkins-x/jx/issues/2544
 The fixes involve upgrading to a newer version of Prow and Knative Build, the latter caused an issue when performing a traditional jx upgrade addon so we recommend uninstalling Knative Build first (removes Knative Build related Custom Resource Definitions) and install the latest release.</description>

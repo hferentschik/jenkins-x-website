@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Getting Started on Jenkins X</title>
-    <link>https://jenkins-x.io/categories/getting-started/</link>
+    <link>https://hferentschik.github.io/jenkins-x-website/categories/getting-started/</link>
     <description>Recent content in Getting Started on Jenkins X</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jenkins-x.io/categories/getting-started/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hferentschik.github.io/jenkins-x-website/categories/getting-started/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Demos</title>
-      <link>https://jenkins-x.io/demos/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/demos/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/demos/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/demos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Get Started</title>
-      <link>https://jenkins-x.io/getting-started/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/getting-started/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/getting-started/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/getting-started/</guid>
       <description>The simplest way to get started is via the Google Cloud Tutorials.
 Otherwise first you will need to get the jx command line tool locally on your machine.
 You can use the jx command line to create a new kubernetes cluster with Jenkins X installed automatically.
@@ -35,10 +35,10 @@ When you have a kubernetes cluster with Jenkins X installed, check out your next
     
     <item>
       <title>Tutorials</title>
-      <link>https://jenkins-x.io/getting-started/tutorials/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/getting-started/tutorials/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/getting-started/tutorials/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/getting-started/tutorials/</guid>
       <description>Knowing where to start is often the hardest thing. To assist, we&amp;rsquo;ve created a constantly evolving set of tutorials that can be used against Google Kubernetes Engine utilising its Google Cloud Shell feature to help you get up and running quickly.
 Installing JX on GKE Time to complete. About 25 minutes
 At the end of this guide you will have:
@@ -47,10 +47,10 @@ At the end of this guide you will have:
     
     <item>
       <title>Get jx</title>
-      <link>https://jenkins-x.io/getting-started/install/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/getting-started/install/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/getting-started/install/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/getting-started/install/</guid>
       <description>Pick the most suitable instructions for your operating system:
 macOS On a Mac you can use brew:
 brew tap jenkins-x/jx brew install jx  Or if you have not installed brew and prefer to install by hand:
@@ -59,10 +59,10 @@ curl -L https://github.com/jenkins-x/jx/releases/download/v1.3.810/jx-darwin-amd
     
     <item>
       <title>Create new Cluster</title>
-      <link>https://jenkins-x.io/getting-started/create-cluster/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/getting-started/create-cluster/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/getting-started/create-cluster/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/getting-started/create-cluster/</guid>
       <description>To create a new Kubernetes cluster with Jenkins X installed use the jx create cluster command.
 A number of different public cloud providers are supported as shown below.
 For the best getting started experience we currently recommend using Google Container Engine (GKE). The Google Cloud Platform offers a $300 free credit if you don&amp;rsquo;t have a Google Cloud account. See https://console.cloud.google.com/freetrial
@@ -71,20 +71,20 @@ Here&amp;rsquo;s a little demo showing GKE, AKS and Minikube in parallel.</descr
     
     <item>
       <title>Install on Kubernetes</title>
-      <link>https://jenkins-x.io/getting-started/install-on-cluster/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/getting-started/install-on-cluster/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/getting-started/install-on-cluster/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/getting-started/install-on-cluster/</guid>
       <description>Jenkins X can be installed on 1.8 or later of Kubernetes. The requirements are:
  RBAC is enabled Your Kubernetes cluster has a default storage class setup so that Persistent Volume Claims can be bound to Persistent Volumes If not using the aws or eks providers, then we need to make sure that insecure Docker registries are enabled. This is so that pipelines can use a Docker registry running inside the Kubernetes cluster (which typically is not public, so no https support).</description>
     </item>
     
     <item>
       <title>What happens during installation</title>
-      <link>https://jenkins-x.io/getting-started/install-on-cluster-what-happens/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/getting-started/install-on-cluster-what-happens/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/getting-started/install-on-cluster-what-happens/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/getting-started/install-on-cluster-what-happens/</guid>
       <description>The Jenkins X CLI will do the following when installing the Jenkins X platform:
 Install client binaries to manage your cluster  If you are running on Mac OS X, Jenkins X is using Homebrew to install the various CLI. It will install it if not present.
   Install kubectl kubectl is the CLI of Kubernetes. It allows you to interact with your Kubernetes cluster via the API server.</description>
@@ -92,10 +92,10 @@ Install client binaries to manage your cluster  If you are running on Mac OS X, 
     
     <item>
       <title>Configuration</title>
-      <link>https://jenkins-x.io/getting-started/config/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/getting-started/config/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/getting-started/config/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/getting-started/config/</guid>
       <description>Jenkins X should work out of the box with smart defaults for your cloud provider. e.g. Jenkins X automatically uses ECR if you are using AWS or EKS.
 However you can configure values in the underlying helm charts used by Jenkins X.
 To do this you need to create a myvalues.yaml file in the current directory you are in when you run either jx create cluster or jx install</description>
@@ -103,10 +103,10 @@ To do this you need to create a myvalues.yaml file in the current directory you 
     
     <item>
       <title>What&#39;s next?</title>
-      <link>https://jenkins-x.io/getting-started/next/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/getting-started/next/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/getting-started/next/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/getting-started/next/</guid>
       <description>OK so you have got the jx CLI and you either
  created a Kubernetes cluster with Jenkins X installed Jenkins X on an existing kubernetes cluster  So whats next?
 Well the Developing section contains the next steps you may want to try out, such as
@@ -115,10 +115,10 @@ Well the Developing section contains the next steps you may want to try out, suc
     
     <item>
       <title>Create custom Builder</title>
-      <link>https://jenkins-x.io/getting-started/create-custom-builder/</link>
+      <link>https://hferentschik.github.io/jenkins-x-website/getting-started/create-custom-builder/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://jenkins-x.io/getting-started/create-custom-builder/</guid>
+      <guid>https://hferentschik.github.io/jenkins-x-website/getting-started/create-custom-builder/</guid>
       <description>In Jenkins X, it is possible to create your custom Builders (aka POD templates) or overwrite existing onces. You just need to base your Docker image on this builder-base image or on its slim version. These images contain a number of pre-installed tools which get constantly updated and published to Docker Hub.
 Create a custom Builder from scratch Builder image First you need to create a docker image for your builder.</description>
     </item>

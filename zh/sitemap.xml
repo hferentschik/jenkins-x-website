@@ -3,828 +3,828 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jenkins-x.io/zh/architecture/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/architecture/</loc>
     <lastmod>2018-06-03T11:09:49+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/architecture/"
+                href="https://hferentschik.github.io/jenkins-x-website/architecture/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/architecture/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/getting-started/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/</loc>
     <lastmod>2018-06-09T10:51:06+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/getting-started/"
+                href="https://hferentschik.github.io/jenkins-x-website/getting-started/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/getting-started/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/faq/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/faq/</loc>
     <lastmod>2018-07-10T22:12:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/faq/"
+                href="https://hferentschik.github.io/jenkins-x-website/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/faq/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/faq/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/documentation/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/documentation/</loc>
     <lastmod>2018-04-21T08:59:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/documentation/"
+                href="https://hferentschik.github.io/jenkins-x-website/documentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/documentation/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/documentation/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/about/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/about/</loc>
     <lastmod>2018-04-17T18:27:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/about/"
+                href="https://hferentschik.github.io/jenkins-x-website/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/about/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/about/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/developing/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/developing/</loc>
     <lastmod>2018-05-16T09:46:49+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/demos/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/demos/</loc>
     <lastmod>2018-06-09T10:51:06+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/demos/"
+                href="https://hferentschik.github.io/jenkins-x-website/demos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/demos/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/demos/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/contribute/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/contribute/</loc>
     <lastmod>2018-10-25T21:42:54+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/contribute/"
+                href="https://hferentschik.github.io/jenkins-x-website/contribute/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/contribute/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/contribute/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/faq/faq/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/faq/faq/</loc>
     <lastmod>2018-06-29T11:13:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/faq/faq/"
+                href="https://hferentschik.github.io/jenkins-x-website/faq/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/faq/faq/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/faq/faq/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/faq/jenkins/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/faq/jenkins/</loc>
     <lastmod>2018-06-29T11:13:54+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/faq/setup/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/faq/setup/</loc>
     <lastmod>2018-10-30T20:20:06+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/faq/setup/"
+                href="https://hferentschik.github.io/jenkins-x-website/faq/setup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/faq/setup/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/faq/setup/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/faq/issues/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/faq/issues/</loc>
     <lastmod>2018-09-24T08:43:13+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/faq/issues/"
+                href="https://hferentschik.github.io/jenkins-x-website/faq/issues/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/faq/issues/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/faq/issues/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/about/features/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/about/features/</loc>
     <lastmod>2019-01-09T18:09:30-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/about/features/"
+                href="https://hferentschik.github.io/jenkins-x-website/about/features/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/about/features/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/about/features/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/community/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/community/</loc>
     <lastmod>2018-11-26T21:08:29+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/community/"
+                href="https://hferentschik.github.io/jenkins-x-website/community/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/community/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/community/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/faq/technology/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/faq/technology/</loc>
     <lastmod>2018-07-10T22:12:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/faq/technology/"
+                href="https://hferentschik.github.io/jenkins-x-website/faq/technology/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/faq/technology/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/faq/technology/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/about/accelerate/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/about/accelerate/</loc>
     <lastmod>2018-08-20T11:04:57+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/about/accelerate/"
+                href="https://hferentschik.github.io/jenkins-x-website/about/accelerate/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/about/accelerate/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/about/accelerate/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/contribute/development/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/contribute/development/</loc>
     <lastmod>2018-07-03T00:06:15+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/contribute/development/"
+                href="https://hferentschik.github.io/jenkins-x-website/contribute/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/contribute/development/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/contribute/development/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/getting-started/install/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/install/</loc>
     <lastmod>2018-08-20T10:48:10+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/getting-started/install/"
+                href="https://hferentschik.github.io/jenkins-x-website/getting-started/install/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/getting-started/install/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/install/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/faq/develop/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/faq/develop/</loc>
     <lastmod>2018-11-11T18:42:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/faq/develop/"
+                href="https://hferentschik.github.io/jenkins-x-website/faq/develop/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/faq/develop/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/faq/develop/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/contribute/roadmap/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/contribute/roadmap/</loc>
     <lastmod>2019-01-21T12:52:11+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/contribute/roadmap/"
+                href="https://hferentschik.github.io/jenkins-x-website/contribute/roadmap/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/contribute/roadmap/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/contribute/roadmap/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/contribute/documentation/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/contribute/documentation/</loc>
     <lastmod>2019-01-09T16:45:41-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/contribute/documentation/"
+                href="https://hferentschik.github.io/jenkins-x-website/contribute/documentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/contribute/documentation/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/contribute/documentation/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/demos/create_cluster_gke/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/demos/create_cluster_gke/</loc>
     <lastmod>2018-04-22T22:14:42+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/demos/create_cluster_gke/"
+                href="https://hferentschik.github.io/jenkins-x-website/demos/create_cluster_gke/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/demos/create_cluster_gke/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/demos/create_cluster_gke/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/demos/create_spring/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/demos/create_spring/</loc>
     <lastmod>2018-04-22T22:14:42+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/demos/create_spring/"
+                href="https://hferentschik.github.io/jenkins-x-website/demos/create_spring/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/demos/create_spring/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/demos/create_spring/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/getting-started/create-cluster/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/create-cluster/</loc>
     <lastmod>2018-05-04T13:36:31+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/getting-started/create-cluster/"
+                href="https://hferentschik.github.io/jenkins-x-website/getting-started/create-cluster/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/getting-started/create-cluster/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/create-cluster/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/demos/create_cluster/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/demos/create_cluster/</loc>
     <lastmod>2018-04-22T22:14:42+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/demos/create_cluster/"
+                href="https://hferentschik.github.io/jenkins-x-website/demos/create_cluster/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/demos/create_cluster/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/demos/create_cluster/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/about/concepts/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/about/concepts/</loc>
     <lastmod>2018-04-25T14:31:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/about/concepts/"
+                href="https://hferentschik.github.io/jenkins-x-website/about/concepts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/about/concepts/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/about/concepts/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/getting-started/create-custom-builder/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/create-custom-builder/</loc>
     <lastmod>2018-11-30T09:42:48-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/getting-started/create-custom-builder/"
+                href="https://hferentschik.github.io/jenkins-x-website/getting-started/create-custom-builder/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/getting-started/create-custom-builder/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/create-custom-builder/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/getting-started/install-on-cluster/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/install-on-cluster/</loc>
     <lastmod>2018-05-18T22:04:37+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/getting-started/install-on-cluster/"
+                href="https://hferentschik.github.io/jenkins-x-website/getting-started/install-on-cluster/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/getting-started/install-on-cluster/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/install-on-cluster/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/getting-started/install-on-cluster-what-happens/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/install-on-cluster-what-happens/</loc>
     <lastmod>2019-01-09T16:45:41-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/getting-started/install-on-cluster-what-happens/"
+                href="https://hferentschik.github.io/jenkins-x-website/getting-started/install-on-cluster-what-happens/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/getting-started/install-on-cluster-what-happens/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/install-on-cluster-what-happens/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/architecture/components/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/architecture/components/</loc>
     <lastmod>2019-01-18T14:52:14+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/architecture/components/"
+                href="https://hferentschik.github.io/jenkins-x-website/architecture/components/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/architecture/components/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/components/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/developing/create-spring/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/developing/create-spring/</loc>
     <lastmod>2018-06-09T10:51:06+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/create-spring/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/create-spring/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/create-spring/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/create-spring/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/developing/create-quickstart/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/developing/create-quickstart/</loc>
     <lastmod>2019-01-09T16:45:41-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/create-quickstart/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/create-quickstart/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/create-quickstart/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/create-quickstart/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/architecture/custom-resources/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/architecture/custom-resources/</loc>
     <lastmod>2018-06-03T11:09:49+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/architecture/custom-resources/"
+                href="https://hferentschik.github.io/jenkins-x-website/architecture/custom-resources/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/architecture/custom-resources/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/custom-resources/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/developing/import/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/developing/import/</loc>
     <lastmod>2019-01-09T16:45:41-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/import/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/import/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/import/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/import/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/developing/browsing/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/developing/browsing/</loc>
     <lastmod>2018-05-07T18:20:31+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/browsing/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/browsing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/browsing/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/browsing/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/getting-started/next/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/next/</loc>
     <lastmod>2018-06-23T23:04:31+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/getting-started/next/"
+                href="https://hferentschik.github.io/jenkins-x-website/getting-started/next/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/getting-started/next/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/next/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/developing/kube-context/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/developing/kube-context/</loc>
     <lastmod>2018-05-08T09:48:32+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/kube-context/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/kube-context/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/kube-context/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/kube-context/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/about/license/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/about/license/</loc>
     <lastmod>2018-04-17T18:27:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/about/license/"
+                href="https://hferentschik.github.io/jenkins-x-website/about/license/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/about/license/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/about/license/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/getting-started/config/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/getting-started/config/</loc>
     <lastmod>2018-08-31T13:55:06+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/getting-started/config/"
+                href="https://hferentschik.github.io/jenkins-x-website/getting-started/config/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/getting-started/config/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/getting-started/config/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/architecture/build-packs/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/architecture/build-packs/</loc>
     <lastmod>2018-11-26T09:26:16+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/architecture/build-packs/"
+                href="https://hferentschik.github.io/jenkins-x-website/architecture/build-packs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/architecture/build-packs/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/build-packs/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/architecture/pod-templates/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/architecture/pod-templates/</loc>
     <lastmod>2018-11-26T09:26:16+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/architecture/pod-templates/"
+                href="https://hferentschik.github.io/jenkins-x-website/architecture/pod-templates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/architecture/pod-templates/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/pod-templates/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/developing/promote/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/developing/promote/</loc>
     <lastmod>2018-05-15T18:39:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/promote/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/promote/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/promote/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/promote/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/architecture/docker-registry/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/architecture/docker-registry/</loc>
     <lastmod>2018-10-09T18:52:44+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/architecture/docker-registry/"
+                href="https://hferentschik.github.io/jenkins-x-website/architecture/docker-registry/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/architecture/docker-registry/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/architecture/docker-registry/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/developing/preview/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/developing/preview/</loc>
     <lastmod>2018-05-15T19:17:57+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/preview/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/preview/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/preview/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/preview/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/developing/ide/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/developing/ide/</loc>
     <lastmod>2018-05-23T09:58:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/ide/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/ide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/ide/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/ide/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/developing/issues/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/developing/issues/</loc>
     <lastmod>2019-01-09T16:45:41-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/issues/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/issues/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/issues/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/issues/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/developing/git/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/developing/git/</loc>
     <lastmod>2019-01-09T16:45:41-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/developing/git/"
+                href="https://hferentschik.github.io/jenkins-x-website/developing/git/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/developing/git/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/developing/git/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/</loc>
     <lastmod>2018-06-09T10:40:33+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/"
+                href="https://hferentschik.github.io/jenkins-x-website/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/categories/about-jenkins-x/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/categories/about-jenkins-x/</loc>
     <lastmod>2018-04-17T18:27:03+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/categories/about-jenkins-x/"
+                href="https://hferentschik.github.io/jenkins-x-website/categories/about-jenkins-x/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/categories/about-jenkins-x/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/categories/about-jenkins-x/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/categories/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/categories/</loc>
     <lastmod>2018-04-17T18:27:03+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/categories/"
+                href="https://hferentschik.github.io/jenkins-x-website/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/categories/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/categories/contribute/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/categories/contribute/</loc>
     <lastmod>2018-10-25T21:42:54+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/categories/contribute/"
+                href="https://hferentschik.github.io/jenkins-x-website/categories/contribute/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/categories/contribute/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/categories/contribute/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/categories/faq/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/categories/faq/</loc>
     <lastmod>2018-06-29T11:13:54+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/categories/faq/"
+                href="https://hferentschik.github.io/jenkins-x-website/categories/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/categories/faq/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/categories/faq/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/categories/fundamentals/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/categories/fundamentals/</loc>
     <lastmod>2018-06-03T11:09:49+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/categories/fundamentals/"
+                href="https://hferentschik.github.io/jenkins-x-website/categories/fundamentals/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/categories/fundamentals/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/categories/fundamentals/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/categories/getting-started/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/categories/getting-started/</loc>
     <lastmod>2018-06-09T10:51:06+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/categories/getting-started/"
+                href="https://hferentschik.github.io/jenkins-x-website/categories/getting-started/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/categories/getting-started/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/categories/getting-started/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/news/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/news/</loc>
     <lastmod>2018-04-21T08:59:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jenkins-x.io/news/"
+                href="https://hferentschik.github.io/jenkins-x-website/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jenkins-x.io/zh/news/"
+                href="https://hferentschik.github.io/jenkins-x-website/zh/news/"
                 />
   </url>
   
   <url>
-    <loc>https://jenkins-x.io/zh/categories/%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://hferentschik.github.io/jenkins-x-website/zh/categories/%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2018-06-09T10:51:06+08:00</lastmod>
     <priority>0</priority>
   </url>
